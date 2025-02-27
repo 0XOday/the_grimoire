@@ -1,0 +1,1 @@
+Linux also supports FAT/FAT32 ( designated as VFAT) Additional protocols such as the Network file system (NFS) can be used to mount remote storage devices into the local file system.

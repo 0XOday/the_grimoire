@@ -1,0 +1,1 @@
+ndows uses NTFS and Linux uses ext3 or ext4, Apple uses there proprietary Apple file system (APFS) which supports journaling snapshots permissions ownership and encryption 

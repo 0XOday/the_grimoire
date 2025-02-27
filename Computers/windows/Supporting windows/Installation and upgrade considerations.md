@@ -1,0 +1,2 @@
+Clean install or in-place upgrade
+An attended installation is where the installer input the configuration information in response to prompts from a setup program. There are two main types of attended installation 

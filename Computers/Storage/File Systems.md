@@ -9,8 +9,6 @@ Disadvantages are Fragmentation, lack of advance features, limitations on volume
 
 ### exFAT (Extended File Allocation Table)
 
-### NTFS (New Technology File System)
-
 ### APFS (Apple File System)
 
 ### HFS, HFS+ (Hierarchical File System)
