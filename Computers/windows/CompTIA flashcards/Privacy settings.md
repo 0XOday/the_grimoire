@@ -1,0 +1,1 @@
+Via the App permissions section under **Privacy settings** you might also note that most browser software can be configured to only allow location information on a per-site basis! 

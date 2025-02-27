@@ -1,0 +1,1 @@
+The General Data Protection Regulation is a European Union law focused on protecting personal data and privacy. it requires companies to gain consent before collecting data and provides rights to individuals regarding how their data is used.

@@ -1,0 +1,37 @@
+psudo configs for crs518 
+/interface/bridge/port
+remove interfaces *
+
+//I know I dont have to note PVID for trunks I do not give a shit, its my notes.
+
+add interface=qsfp28-1-1 bridge=bridgeLocal pvid=1 frame-type-admit-only-vlan-tagged comment="trunk to KatCloud"
+add interface=sfp28-1 bridge=bridgeLocal pvid=1 frame-type-admit-only-vlan-tagged comment="trunk to Palo"
+
+/interface/vlan
+add vlan-id=88 name=VLAN88-MNGMT interface=bridge
+add vlan-id=101 name=VLAN101-ROUTING-OSPF interface=bridge
+
+//add vlan-id=1000 name=VLAN1000-PALADIN-LAB interface=bridge
+//add vlan-id=1200 name=VLAN1200-ADORABUG-LAB interface=bridge
+
+/ip/address
+add address=192.168.88.1/24 network=192.168.88.0 interface=VLAN88-MNGMT
+add address=192.168.90.1/24 network=192.168.90.0 interface=VLAN101-ROUTING-OSPF
+
+
+
+//OSPF configs
+
+/routing/ospf/instance
+
+add name=ospf-crs519 version=3 router-id=192.168.90.1
+
+/routing/ospf/area
+add name=backbone_v3 area-id=???? instance=ospf-crs518
+
+
+
+
+
+
+

@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"ef8b4de2bc104f17","type":"text","text":"palo OSPF BR AREA 1 \nBGP AS 65000","x":-340,"y":100,"width":379,"height":293},
+		{"id":"c276ec9c8cfa8807","type":"text","text":"hap-roselab\nOSPF","x":1189,"y":-280,"width":231,"height":176},
+		{"id":"df3a8efccc6a76af","type":"text","text":"326\nOSPF","x":490,"y":236,"width":750,"height":314},
+		{"id":"74d21bbf1f6a1d71","type":"text","text":"518-CORE BGP AS 65001","x":-720,"y":-164,"width":380,"height":120},
+		{"id":"5f1029dcbf94780a","x":240,"y":760,"width":250,"height":93,"type":"text","text":"HAP-OSPF-Livingroom"},
+		{"id":"e99f22032e6a605a","type":"text","text":"crs-shed","x":-440,"y":700,"width":250,"height":60},
+		{"id":"a694c296948c6784","type":"text","text":"RB-5009 OSPF","x":680,"y":-269,"width":250,"height":170},
+		{"id":"d5eac77b87d5df24","type":"text","text":"309 OSPF","x":240,"y":-269,"width":250,"height":230}
+	],
+	"edges":[
+		{"id":"1b5f42c5009f9eff","fromNode":"ef8b4de2bc104f17","fromSide":"top","toNode":"74d21bbf1f6a1d71","toSide":"bottom"},
+		{"id":"01a7eb5ff4595013","fromNode":"ef8b4de2bc104f17","fromSide":"right","toNode":"d5eac77b87d5df24","toSide":"left","fromEnd":"arrow"},
+		{"id":"248de1f597865e3a","fromNode":"e99f22032e6a605a","fromSide":"top","toNode":"ef8b4de2bc104f17","toSide":"bottom"},
+		{"id":"6e70145194f5dd49","fromNode":"d5eac77b87d5df24","fromSide":"right","toNode":"a694c296948c6784","toSide":"left","fromEnd":"arrow"},
+		{"id":"48aa32eb36518cfb","fromNode":"d5eac77b87d5df24","fromSide":"bottom","toNode":"df3a8efccc6a76af","toSide":"top"},
+		{"id":"8ee12b013f4538f8","fromNode":"a694c296948c6784","fromSide":"right","toNode":"c276ec9c8cfa8807","toSide":"left"},
+		{"id":"1fdd7c04dcf2e39e","fromNode":"e99f22032e6a605a","fromSide":"right","toNode":"5f1029dcbf94780a","toSide":"left"}
+	]
+}

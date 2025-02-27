@@ -1,0 +1,1 @@
+payment Card Industry Data Security Standard is a global standard for securing credit card transactions and protecting cardholder information

@@ -1,0 +1,1 @@
+The Federal information Security Modernization Act in a U.S. law that mandates federal agencies and contractors to secure information information systems. it sets requirements for risk management and controls to protect government data 

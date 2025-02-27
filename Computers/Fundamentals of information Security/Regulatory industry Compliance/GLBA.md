@@ -1,0 +1,1 @@
+The Gramm-Leach-Bliley Act requires financial institutions to protect consumers personal financial data. it includes specific rules for data protection and disclosure.

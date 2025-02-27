@@ -1,0 +1,51 @@
+day zero lab out ospf / prep palo / power
+day one link lights / mngmt vlans / limp network 
+day two  wrangle palo ospf 
+day three ????
+day four profit 
+
+palo ip 
+
+VLANS 
+//    88 - mngt - 192.168.88.0/24
+101 - routing/bgp - 192.168.90.0/24
+//   102 - internal api openstack - 10.0.12.0/24
+//   103 - external api - 10.0.13.0/24
+//   104 - IPMI - 192.168.89.0/24
+105 - guest-net - 192.168.87.0/24
+106 - Gen-net - 192.168.86.0/24
+//  107 - Retro-Lab - 192.168.72.0 /21 :note ends at 79.254
+//  108 - Net-Lab - 192.168.84.0/24 
+109 - IOT-RASP- 192.168.83.0/24
+110 - wifi - 192.168.82.0/24
+300 - Storage ISCI- 10.255.255.0/24 Note no routing  
+// 100 - Data-Center-IMPI - 10.0.10.0/24 
+// 200 - Data-centerInband - 10.0.11.0/24
+// 500 - DatacenterProvider - 172.17.0.0/16
+1000 - 1100 - Paladin-Lab - 192.168.128.0/19
+1200 - 1300 - Adorabug-Lab - 192.168.96.0/19
+301 storage nfs - 10.254.254.0/24
+111 clean-net - 192.168.81.0/24
+10 - WAN trans
+
+
+10.1.0.0/16 internal openstack tenant
+
+site to site vpn tun 
+10.253.253.0/24
+
+ASN 
+
+palo - 65000 Note mayby ??
+crs518 - 65001
+dcs7060 - 65002
+
+
+
+RFC1918 private space 
+192.168.0.0/16
+172.16.0.0/12
+10.0.0.0/8
+100.64.0.0/10
+224.0.0.0/4 Note multicast dont touch silly pup
+127.0.0.0/8 loop back

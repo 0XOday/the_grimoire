@@ -1,0 +1,1 @@
+The Federal Risk And Authorization Management Program Provides standardized security requirements for cloud services used by U.S. federal agencies 

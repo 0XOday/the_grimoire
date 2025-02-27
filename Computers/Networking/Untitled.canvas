@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"85d5acd44f5a74ec","x":-1440,"y":-281,"width":326,"height":463,"type":"text","text":"VLAN-101-BGP-OSPF\n192.168.90.0"},
+		{"id":"276c8b918829de0e","type":"text","text":"518-CORE BGP AS 65001","x":-1467,"y":-660,"width":380,"height":120},
+		{"id":"d85b67fee936d80f","type":"text","text":"palo \nOSPF BR AREA 1 \nBGP AS 65000\n\nCant set two interface as the same subnet.\n\nHave BGP on its own subnet?\n\n\n","x":-880,"y":-196,"width":379,"height":378},
+		{"id":"dca83281f577f185","type":"text","text":"309 OSPF\nVLAN-101-BGP-OSPF\n192.168.90.0","x":-60,"y":-715,"width":250,"height":230},
+		{"id":"23bbec996dda32e0","x":65,"y":-240,"width":250,"height":303,"type":"text","text":"VLAN-101-ROUTING-BGP-OSPF"}
+	],
+	"edges":[
+		{"id":"8fd385829d79528c","fromNode":"d85b67fee936d80f","fromSide":"top","toNode":"276c8b918829de0e","toSide":"bottom","toEnd":"none","label":"SFP28-1 IP 192.168.90.1 ---- Interface Ethernet  1/19\nIP 192.168.90.20"},
+		{"id":"ab31e0c16aef22c1","fromNode":"d85b67fee936d80f","fromSide":"right","toNode":"dca83281f577f185","toSide":"bottom","toEnd":"none","label":"sfp-sfpplus8 ---- Interface Ethernet 1/20\n\n\nLIMP-NET 192.168.12.4/24\nNAT FROM PALO\n\n\n\n\n"},
+		{"id":"d39566334509b22e","fromNode":"85d5acd44f5a74ec","fromSide":"top","toNode":"276c8b918829de0e","toSide":"bottom"},
+		{"id":"650e32e85e7b15bd","fromNode":"dca83281f577f185","fromSide":"bottom","toNode":"23bbec996dda32e0","toSide":"top"}
+	]
+}

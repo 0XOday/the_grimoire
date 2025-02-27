@@ -1,0 +1,212 @@
+
+OSPF Termininologies
+    OSPFv2 - IPV4
+    OSPFv3 - IPV6
+    AS (autonomous system) - single entity that all 
+    routes within a single network belong to
+    Area - Different zones inside an autonomous system
+    ABR - Area border router, routers connected between
+    diffrent areas 
+    ASBR - autonomous system boundary router, connected to different as
+    Neighbor - devices running ospf
+    Adjacency - Neighbors that are capable of exchanging updates
+    LSA - Link-State advertisement, packet contaning routing & Link-state information
+    LSU - Link-State update, transport mechanism that will carry LAS's between neighbors
+    LSR - Link-State request, sent by routers to request routing or link-state information
+    LSACK - Link-State Acknowledgement, routers confirm that an LSU was received 
+    DR - Designated router, responsible for keeping the LSDB updated
+    DBR - Backup designated router, standby for the DR, Receibes all updates but does not actively send updates.
+    ROUTER-ID - Unique 32-bit address identiffor each OSPF router
+    Networks - Prefixes that will be advertised by the OSPF router to neighbors
+    Network type - Specify how the OSPF will operate Broadcast VS point - to - point 
+    
+    OSPF area types 
+        * standard/defualt - OSPF packets can normally be transmitted in this area, it supports types 1,2,3,4 and 5 LSA's
+        * backbone - this main area where any other area connects. it is basically the same as the standard area but identified with ID 0.0.0.0
+        * Stub - this area does not accept any external routes
+        * Totally stubby - A variation of the stub area
+        * not-so-stubby (NSSA) A variation of the stub area 
+    
+    
+    STUB (AREA) TYPE - Set how an area will operate, Either as default, stub or NSSA
+
+
+    COST - Specifies the cost value with lowest value are typically prefered
+    Priority - Usued during the discover process to determine if a router is a DR or BDR.
+    Devices with the highest value are elected as either DR or BDR
+
+    Hard requirements to work 
+    * Area needs to be the name 
+    * Subnets need to match
+    * Hello timers need to match
+    * Stub flags needs to match
+    * Authentication needs to be the name
+    * MTU needs to match 
+
+Note MT can do instince based OSPF
+
+How does OSPF function?
+    * OSPF needs to be configured on two or more routers wanting to create neighborships and adjacencies 
+    * The hello protocol will be used to send messages over OSPF configured interfaces to discober neighbors
+    * Initial discovery is done via broadcast, new messages are done via mulicast on 224.0.0.5
+    * protocol (port? Networkingberg did not elaborate will on this) 89 is ospf which we have to allow on our firewalls
+    * when a connection is establbshed/adjacency is formed routers will exchange LSA's to create a LSDB that will contain routing information in that area
+    * if any changes occur on the networking IE a link goes down or a better path becomes availavle the routers will generate an LSU to be sent to all adjacent routers to update them on new changes, keeping the LSDB syncronized across the **area**   
+
+
+OSPF neighbor states 
+    * Full - LSDB synncrhonized between router and adjacent neighbor
+    * 2-way - neighbors can communicate but do not send LSU's/LSA's to synchronize the LSDB
+    * DOWN,INIT,LOADING,EXSTART,EXCHANGE - The neighbor is down or is in the process of discovery
+
+
+ NOTE if routes have the same cost ECMP (Equal Cost Multi-Path) load balancing ocours 
+ Equal-cost multi-path routing (ECMP) is a routing strategy where packet forwarding to a single destination can occur over multiple best paths with equal routing priority. Multi-path routing can be used in conjunction with most routing protocols because it is a per-hop local decision made independently at each router. It can substantially increase bandwidth by load-balancing traffic over multiple paths; however, there may be significant problems in deploying it in practice.[1] 
+
+
+//OSPF configs
+
+
+
+
+
+/routing ospf instance
+add name=v3inst version=3 router-id=1.2.3.4
+/routing ospf area
+add name=backbone_v2 area-id=0.0.0.0 instance=v2inst
+add name=backbone_v3 area-id=0.0.0.0 instance=v3inst
+
+
+
+hlcm)P8j0)ahf&<e
+OvAnwEPx4aeNDESITYMZ907ixhjpGY1a
+
+
+
+
+
+
+
+
+Introduction
+
+This document outlines few comparisons of OSPFv3 and OSPFv2 Routing Protocol. OSPFv3 has few similarities with that of IPv4 version i.e. OSPFv2 in some ways, like Packet Type, Interface Type, Neighbor Discovery Pattern, LSA flooding & aging.
+
+ 
+OSPFv3 and v2 Differences:
+
+ 
+
+>Protocol processing per-link, not per-subnet
+
+>Removal of addressing semantics
+
+>Addition of Flooding scope
+
+>Explicit support for multiple instances per link
+
+>Use of IPv6 link-local addresses
+
+>Authentication method changes
+
+>Packet format, LSA&rsquo;s header format changes
+
+>Handling of unknown LSA types
+
+ 
+Protocol processing per-link, not per-subnet:
+
+IPv6 uses the term "link" instead of "subnet" or "network" to define a medium used to communicate between nodes at the link layer. Multiple IP subnets can be assigned to a single link, and two nodes can communicate with each other even if they do not share a common IP subnet.
+OSPfv3 Packet/Interface Type
+
+ 
+
+OSPFv3 Packet TypeOSPFv3 Interface Type
+Type 1 - Hello	P2P
+Type 2 - Database Description	P2MP
+Type 3 - Link State Request	Broadcast
+Type 4 - Link State Update	NBMA
+Type 5 - Link State Acknowledgement	Virtual
+
+ 
+OSPFv3 Header Comparison
+
+ 
+
+FieldOSPFv3OSPFv2
+Header Size	16 Bytes	24 Bytes
+Router & Area ID	32 Bit	32 Bit
+Instance ID	Yes	
+
+No
+Authentication	IP Sec	Interface Specific and Entire Area
+
+ 
+
+Note: In OSPFv3, Instance ID is a new field that is used to have multiple OSPF process’ instance per link. By default it is 0 and for any additional instance it is increased, instance ID has local link significance only. OSPFv3 routers will only become neighbors if the instanceIDs match. It is thus possible to have multiple routers on a broadcast domain and all run Ospfv3 but not all of them becoming neighbours.
+
+ 
+OSPFv3 Hello Packet and Functioning
+
+ 
+
+V3 Hello Packet.bmp
+
+ 
+
+Note: Interface ID is a 32-bit number uniquely identify an interface, virtual link gets its own interface ID.
+
+ 
+
+    As compared, OSPFv3 does not require a Network mask to form an adjacency formation. Adjacency is formed on the link local as v6 runs on per link instead of per subnet.
+    OSPFv3 Option field is 24-bit as that of V2 8-bits
+    Dead intervals field reduced to 16 bits from 32.
+    Multicast Address
+
+ 
+
+Multicast AddressOSPFv3OSPFv2
+All-SPF Routers	FF02::5	224.0.0.5
+All-DR Routers	FF02::6	224.0.0.6
+
+ 
+OSPFv3 LSA Types
+
+OSPF LSA Types.bmp
+
+    LSA Type or the function code matches the same  LSA type as in OSPFv2
+    Type 3 is now called inter-area-prefix-LSA
+    Type 4 is now called inter-area-router-LSA
+    Two new LSA type have been added (Link LSA and Intra-Area Prefix LSA)
+
+ 
+
+Note: Intra-Area Prefix LSA is a new LSA in OSPFv3 and used in order to advertise one or more IPv6 prefixes. In OSPFv2 the intera-area prefix information was carried in the router and network LSA's (Type 1 & 2).
+
+ 
+Support for Multiple Instances Per Link:
+
+Instance ID is a new field that is used to have multiple OSPF process instance per link. In order for 2 instances talk to each other they need to have the same instance ID. By default it is 0 and for any additionalinstance it is increased, Instance ID has local link significance only.
+
+ 
+Authentication method changes:
+
+OSPFv2 authentication is achieved by implementing a shared secret and MD5 HMAC supported as part of the OSPFv2 protocol. OSPFv3 does away its own support for authentication entirely, instead relying on the more flexible IPsec framework offered by IPv6.
+
+ 
+Reference
+
+Implementing OSPFv3
+
+OSPF For IPv6
+
+OSPF Version 2
+
+Cisco IPv6 Knowledge Base Portal
+
+OSPFv3 Address Families At-A-Glance
+
+    IPv6 Configuration 
+
+    configurationdesignip_routingipv4ipv6ospfospf_version_3ospfv3routerroutingrouting_protocoltroubleshoottroubleshootingunderstanding_ospfworld_ipv6_day 
+

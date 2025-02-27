@@ -1,0 +1,6 @@
+1. What is it?
+The Brewer-Nash Model, also known as the Chinese Wall Model, is an access control model designed to prevent conflicts of interest in environments where users may have access to sensitive information from competing entities. It is often used in industries such as finance and consulting.
+2. What does it do/how does it work?
+The Brewer-Nash Model enforces access controls based on the relationship between data sets and users. It allows access to information only when it does not create a conflict of interest. For example, if a user accesses information from Company A, they are restricted from accessing information from Company B (a competitor). The access decision is based on the user’s previous actions,effectively creating a “wall” between competing interests.
+3. Why/when would I use it?
+You would use the Brewer-Nash Model in environments where users may have access to sensitive data from multiple competing organizations. This model is particularly important in financial institutions, law firms, and consulting companies, where conflicts of interest could arise from sharing sensitive information between clients.

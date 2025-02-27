@@ -1,0 +1,1 @@
+When you have two bridges both of them with be set to software processing instead of HW off load    

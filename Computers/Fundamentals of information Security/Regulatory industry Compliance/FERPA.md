@@ -1,0 +1,1 @@
+The Family Educational rights and Privacy Act protects the privacy of student education records in U.S educational institutions.

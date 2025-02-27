@@ -1,0 +1,1 @@
+The Children Online Privacy Protection act sets rules for the collection of personal data from children under 13 years old, primarily for online services targeting children.

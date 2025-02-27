@@ -1,0 +1,1 @@
+The Children internet Protection act (CIPA) of 2000 requires schools and libraries to prevent children from accessing obscene or harmful content over the internet 

@@ -1,0 +1,1 @@
+NIST develops guidelines and standards that help organizations manage and mitigate cybersecurity risks. it emphasizes a risk-based approach to security and offers resources like the NIST Cybersecurity Framework (CSF) to help organizations understand and manage their cybersecurity posture. 

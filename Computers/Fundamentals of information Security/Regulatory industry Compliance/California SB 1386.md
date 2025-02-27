@@ -1,0 +1,1 @@
+tipulates requirements that "an agency, person, or business that conducts business in California and owns or licenses computerized 'personal information" to disclose any break of security to any resident whose unecrypted data is belived to have been disclosed 

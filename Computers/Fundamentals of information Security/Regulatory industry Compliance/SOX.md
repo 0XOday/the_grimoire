@@ -1,0 +1,1 @@
+The Sarbanes-Ocly Act requires companies to maintain accurate financial records and internal controls to prevent fraud, particularly for publicly traded companies. 

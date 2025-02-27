@@ -1,0 +1,1 @@
+The Health Insurance Portability and Accountability Act sets standards for protecting health information in the U.S. healthcare industry, particularly for safeguarding patient data (e.g., electronic health records)
