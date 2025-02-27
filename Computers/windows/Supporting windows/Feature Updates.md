@@ -1,0 +1,1 @@
+The Windows 10 and Windows 11 product lifecycles make use of feature updates to introduce changes to the desktop environment and bundled apps. These are delivered Via Windows update. 
