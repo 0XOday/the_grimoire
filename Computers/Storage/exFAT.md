@@ -1,0 +1,1 @@
+exFAT is a 64-bit version of FAT designed for use with removable hard frives and flash medi. Like NTFS, exFAT supports large volumes, up to a recommended maximum size of 512 TB. There is also support for access permissions but not encryption.

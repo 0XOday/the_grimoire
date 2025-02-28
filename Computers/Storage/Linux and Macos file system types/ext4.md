@@ -1,0 +1,1 @@
+ext4 delivers better performance than ext3 delivers and would usually represent the best choice for new systems 
