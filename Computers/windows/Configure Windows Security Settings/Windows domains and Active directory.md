@@ -5,4 +5,12 @@ This model does not scale well to large numbers of users. Consequently, most bus
 To create a domain, you need at least one Windows Server computer configured as a domain controller. A DC stores a database of network information called Active Directory. This database stores user, group and computer objects. this DC is responsible for providing an authentication service to users as they attempt to sign in. Management of DCs and rights to create accounts in the domain is reserved to Domain Admins. This network model is centralized, robust, scalable, and secure 
 
 *Member Servers*
-A member server is any server-based system that has been joined to the domain but does not maintain a copy of Active Directory database. A member server provides 
+A member server is any server-based system that has been joined to the domain but does not maintain a copy of Active Directory database. A member server provides file and print and application server services, such as Exchange for email or SQL server for database or line-of-business applications. AD uses the Kerberos protocol to provision single sign-on authentication and authorization for compatible applications and services.
+
+*Security Groups* 
+A domain supports the use of Security Groups to assign permissions more easily and robustly. User accounts are given membership of a security group to assign them permissions on the network. These permissions apply to any computer joined to the domain. For example, members of the Domain Admins security group can sign in on any computer in the domain, including DC's. A member of the Domain Users security group can only sign in on certain workstations and has no rights to sign in on a DC. 
+
+Note : Accounts and security groups in a domain are configured in the Active Directory database stored on a domain controller.
+
+*Organizational Units*
+An organizational unit (OU) is a way of dividing a domain up into different administrative realms. You might create OUs to delegate responsibility for administrative realms. You might create OUs to delegate responsibility for administering company departments or locations. For example, a "Sales" department manager could be delegated control with rights to add and delete user accounts and assign them to sales security group, but no rights to change accounts policies, such as requiring complex passwords. Standard users in the Sales OU could be given permission to sign in on computers in the sales OU, but not on computers in other OUs       
