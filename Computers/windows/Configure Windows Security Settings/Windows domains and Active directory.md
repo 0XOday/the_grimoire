@@ -1,0 +1,8 @@
+A local account is only recognized by the local machine and cannot be used to access other computers. for example, if the user David needs access to multiple computers in a workgroup environment, a separate local account must be configured on each computer. These accounts can use the same names and passwords for convenience, but the user must still authenticate to the accounts separately. Password changes are not sync'd between the machines and must be updated manually. 
+This model does not scale well to large numbers of users. Consequently, most business and educational organizations use Windows domain networks and accounts. A domain account can be authorized to access any computer joined to the domain. it can be assigned permissions on any resources hosted in the domain. 
+
+*Domain Controllers*
+To create a domain, you need at least one Windows Server computer configured as a domain controller. A DC stores a database of network information called Active Directory. This database stores user, group and computer objects. this DC is responsible for providing an authentication service to users as they attempt to sign in. Management of DCs and rights to create accounts in the domain is reserved to Domain Admins. This network model is centralized, robust, scalable, and secure 
+
+*Member Servers*
+A member server is any server-based system that has been joined to the domain but does not maintain a copy of Active Directory database. A member server provides 
