@@ -1,0 +1,1 @@
+On both workgroup and domain networks, shares are listed by the file server
