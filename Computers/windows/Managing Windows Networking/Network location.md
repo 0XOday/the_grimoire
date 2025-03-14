@@ -1,0 +1,5 @@
+Each network connection is governed by the local OS firewall settings imposed by Windows Defender Firewall 
+
+When you connect to a new network, the Network location Awareness (NLA) service prompts you to set the network profile type. if the network profile type is set as Private, the PC is discoverable and may be used for folder or printer sharing. This is only advisable when connecting to a trusted network. if the network is set to Public, Windows Firewall is configured to block all access and make the host undiscoverable.
+
+With network discovery enabled, other computers and devices can be accessed via the Network object in File Explorer. Windows uses a system called universal naming convention (UNC) syntax to address network hosts and resources. The syntax for a UNC network path is `\\` `host\path` where *host* is the host name, FQDN or ip address of the server and *path* is a shared folder or file path

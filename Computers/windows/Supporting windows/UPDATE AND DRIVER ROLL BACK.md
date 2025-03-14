@@ -1,0 +1,3 @@
+If an update causes problems, You can try to uninstall it. You might be able to use System Restore to do this. Otherwise, open the *Programs and Features* applet and select *View installed updates*. Select the update, and then select the Uninstall button
+
+if you are experiencing problems with a device and you have recently updated the driver, Windows also provides a Roll Back Driver feature. A new driver may not work properly because it has not been fully tested, or it may not work on you particular system. You can use *Device Manager* to revert to the previous driver. Right-click the device and select *Properties* Select the *Driver* tab, and then select the *roll Back Driver* button.
