@@ -1,0 +1,6 @@
+The home folders feature predates the design of modern Windows user profiles, and it can require extra user training to develop the habit of using it. Most users expect to save personal files in their profile folders : Documents, pictures Downloads and so on.
+
+For users who work on more than one computer, they will have separate profiles on each computer, and the data files stored on the first computer will not be available on the second computer. This issue can be mitigated by implementing roaming profiles and/or folder redirection. 
+
+* Roaming profiles copies the whole profile from a share at logon and copies the updated profile back at logoff. Roaming profiles are enabled by entering the path to share in the Profile path box in the general form `\\SERVER\ROAMING$\%USERNAMER%` . The main drawback is that if a profile contains a lot of large data files, there will be a big impact on network bandwidth and sign-in and sign-out performance will be slow.
+* Folder redirection changes the target of a personal folder, such as the Documents folder, Pictures folder or Start Menu folder, to a files share. The redirected folder is only available across the network. This can be used independently or in conjunction with roaming profiles. Folder redirection is configured via a GPO.
