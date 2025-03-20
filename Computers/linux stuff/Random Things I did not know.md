@@ -32,3 +32,6 @@ Each user account can be assigned to a group as a means of allocating permission
 
 A user can belong to many groups but can only have one effctive group ID at any one time. The effective group ID is listed for the user account in etc passwd and can be changed using the `newgrp` command 
 
+
+SAMBA 
+Linux has a server message block (SMB) compatible file sharing protocol called Samba. Samba enables the integration of Linux and windows systems. When added to a linux workstation, that workstation can use the Windows file and print sharing protocol to access shared resources on a Windows host. When the samba service is added to a Linux server, the uses the SMB protocol to share directories to Windows clients 
