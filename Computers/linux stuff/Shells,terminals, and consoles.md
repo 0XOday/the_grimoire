@@ -1,0 +1,2 @@
+Console Switching 
+When a graphical environment is installed, The X server occupies one of several virtual tty consoles, typically tty7. The CTRL+ALT+Fx keys can be used to switch between consoles. Eath console can support a different login prompt and shell
