@@ -7,3 +7,4 @@ Enterprise authentication uses the following general workflow:
 2. is passes the credentials submitted by the supplicant to an Authentication, Authorization, and Accounting (AAA) server on the wired network for validation. The AAA server determines weather to accept the credential.
 3. When the use has been authenticated, the AAA server transmits a master key (MK) to the wireless PC or laptop. The wireless station and authentication server then derive the same pairwise master key from the mk 
 4. The AA server transmits the PMK to the access point. The wireless station and access point use the PMK to derive session keys, using either the WPA 4-way handshake or WPA3 SAE methods. 
+The enterprise authentication method means that the access point does not need to store any user accounts or credentails. They can be help in a more secure location on the AAA server. Another 
