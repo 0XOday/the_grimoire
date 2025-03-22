@@ -1,1 +1,0 @@
-The user must first show file extensions, using the **view** tab in the **File Explorer Options** applet 

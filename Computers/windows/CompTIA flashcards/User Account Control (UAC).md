@@ -1,1 +1,0 @@
-User Account Control is designed to prevent misuse of accounts with administrative privileges. Use of such privileges requires the user to approve a consent dialog or enter the credentials of an administrator account. This system can be disabled via UAC settings, but it is enabled by default
