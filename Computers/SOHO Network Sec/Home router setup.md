@@ -6,4 +6,5 @@ ideally, any router or network appliance should be placed in a secure location. 
 in a home environment, however, the router must be placed near the minimum point of entry for the service providers cabling. There is not always a great deal of flexibility for choosing a location that will make the router physically inaccessible to anyone other than the administrator. The home router will also usually implement the wireless network and there fore cannot be locked in a cabinet because. The home router will also usually implement the wireless network and there fore cannot be locked in a cabinet because clients would suffer from reduced signal strength.
 
 **Home Router Setup**
-To set up a new home router, first connect it to the provider cabling using its WAN port. This will be a WAN labelled RJ45 po 
+To set up a new home router, first connect it to the provider cabling using its WAN port. This will be a WAN labelled RJ45 port on the router labeled WAN/LAN
+
