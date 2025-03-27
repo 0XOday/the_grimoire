@@ -1,9 +1,5 @@
 {
 	"nodes":[
-		{"id":"ff7f8306aa882d29","type":"text","text":"palo","x":-211,"y":-200,"width":250,"height":60},
-		{"id":"e56f6e247e6f3e65","type":"text","text":"518-CORE","x":-211,"y":-420,"width":250,"height":60},
-		{"id":"a31ef53504227c67","type":"text","text":"KatCloud","x":-740,"y":-420,"width":250,"height":60},
-		{"id":"75232a9fc8f8bf23","type":"text","text":"309","x":240,"y":-420,"width":250,"height":60},
 		{"id":"8db9a0fd722ac7b7","type":"text","text":"Thresher","x":1189,"y":-229,"width":250,"height":60},
 		{"id":"f49a2ffa3fcde3e1","type":"text","text":"OSPF\n\nVLANS \n\n101 - routing/bgp-192.168.90.0/24\n100 - Data-Center-IMPI - 10.0.10.0/24 \n200 - Data-centerInband - 10.0.11.0/24\n500 - DatacenterProvider - 172.17.0.0/16\n104 - IPMI - 192.168.89.0/24\n\n \n","x":-340,"y":-1040,"width":705,"height":401},
 		{"id":"aa87282639f9893a","type":"text","text":"Internet!","x":-560,"y":560,"width":250,"height":60},
@@ -14,11 +10,15 @@
 		{"id":"7a44bf22bda815db","type":"text","text":"hotpot","x":559,"y":688,"width":255,"height":74},
 		{"id":"711cdb80beab132b","type":"text","text":"326\nOSPF","x":559,"y":258,"width":250,"height":139},
 		{"id":"00565fedfadf3ab7","type":"text","text":"Hap-wifi-Paladinlab\nVLAN \n110 - wifi - 192.168.82.0/24","x":-211,"y":397,"width":451,"height":263},
-		{"id":"dbd1a5e64f6cbd7a","type":"text","text":"RB-5009","x":684,"y":-480,"width":250,"height":60},
 		{"id":"4e9c7647eda98b3a","type":"text","text":"Butcher","x":1189,"y":-320,"width":250,"height":60},
 		{"id":"bb4d3977324ffe45","type":"text","text":"hap-Roselab\nVLAN\n110 - wifi - 192.168.82.0/24\n","x":1189,"y":-590,"width":351,"height":200},
 		{"id":"08dfcd3b0212bf20","type":"text","text":"OSPF\n","x":918,"y":-37,"width":521,"height":178},
-		{"id":"f24bdaa08a7be70d","x":939,"y":539,"width":681,"height":421,"type":"text","text":"ROUTING-VLAN\n\n"}
+		{"id":"f24bdaa08a7be70d","type":"text","text":"ROUTING-VLAN\n\n","x":939,"y":539,"width":681,"height":421},
+		{"id":"ff7f8306aa882d29","type":"text","text":"palo","x":-560,"y":-97,"width":250,"height":60},
+		{"id":"a31ef53504227c67","type":"text","text":"KatCloud","x":-1157,"y":-420,"width":250,"height":60},
+		{"id":"e56f6e247e6f3e65","type":"text","text":"518-CORE","x":-560,"y":-420,"width":250,"height":60},
+		{"id":"75232a9fc8f8bf23","type":"text","text":"309","x":80,"y":-97,"width":250,"height":60},
+		{"id":"dbd1a5e64f6cbd7a","type":"text","text":"RB-5009","x":520,"y":-97,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"c556a0bac8d7cb68","fromNode":"10dc9830411c59e8","fromSide":"right","toNode":"00565fedfadf3ab7","toSide":"left"},
