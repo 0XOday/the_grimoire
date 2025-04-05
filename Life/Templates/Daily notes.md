@@ -21,14 +21,14 @@
 ~~~
 
 **Tasks for the house**
-	* .
+	* . Clean Kitchen
 	* .
 	* .
 	* .
 	* .
 **Tasks for the wife <3**
-	* .
-	* .
+	* . Make sure she is fed
+	* . Make sure she has taken vitamins 
 	* .
 	* .
 	* .
@@ -44,4 +44,10 @@
 	* .
 	* .
 	* .
--- Reflect 
+**Self nurturing**
+	* . 
+	* .
+	* .
+	* .
+	* .
+ 
