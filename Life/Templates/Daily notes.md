@@ -39,13 +39,14 @@
 	* .
 	* .
 **General adult tasks**
-	* .
+	* . 
 	* .
 	* .
 	* .
 	* .
 **Self nurturing**
-	* . 
+	* . Practice mental awareness
+		* Figure out what smooths me out
 	* .
 	* .
 	* .
