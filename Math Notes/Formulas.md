@@ -11,7 +11,12 @@ Hi
 
 calculate the pythagorean theorem
 
-x = 
+temp1 = RaiseToPower(y , 2.0)
+temp2 = RaiseToPower(z , 2.0)
+
+x = SquareRoot(temp1 + temp2)
 
 
 ```
+
+https://en.wikipedia.org/wiki/Pythagorean_theorem
