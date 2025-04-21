@@ -9,4 +9,9 @@ average = (number1 + number2 + number3) / 3. This means you add the three number
 100 1000 110 1001
 Hi
 
+calculate the pythagorean theorem
+
+
+
+
 ```
