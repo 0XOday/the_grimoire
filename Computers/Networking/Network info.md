@@ -26,6 +26,9 @@ VLANS
 1200 - 1300 - Adorabug-Lab - 192.168.96.0/19
 301 storage nfs - 10.254.254.0/24
 111 clean-net - 192.168.81.0/24
+192.168.80.0/24 - DMZ and specifically 192.168.80.0/29
+
+
 10 - WAN trans
 
 
