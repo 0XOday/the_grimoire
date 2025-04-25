@@ -1,0 +1,1 @@
+* The modulo operator % evaluates the remainder of the division of two integer operands Ex 23 % 10 is 3
