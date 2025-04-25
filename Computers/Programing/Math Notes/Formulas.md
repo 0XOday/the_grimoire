@@ -16,6 +16,8 @@ temp2 = RaiseToPower(z , 2.0)
 
 x = SquareRoot(temp1 + temp2)
 
+to solve for SquareRoot you find a number that when its multiplied by itself it equals to that number you are solving for.
+
 
 ```
 
