@@ -29,6 +29,9 @@ z = RaiseToPower(SquareRoot(y - x), 5)
 
 z = RaiseToPower(x, SquareRoot(y))
 
+![[Pasted image 20250426171435.png]]
+
+z = SquareRoot(RaiseToPower(y, 5) / x)
 
 
 
