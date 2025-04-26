@@ -1,14 +1,19 @@
-currentPrice = Get next input
-lastMonthsPrice = Get next input
+integer currPrice
+integer lastMonthPrice
+float estMortgage
+float pChange
 
-priceChange = currentPrice - lastMonthsPrice
-estMortgage = (currentPrice * 0.045) / 12
+currPrice = Get next input
+lastMonthPrice = Get next input
 
+pChange = currPrice - lastMonthPrice
+estMortgage = (currPrice * 0.045) / 12
 Put "This house is $" to output
-Put currentPrice to output
+Put currPrice to output
 Put "." to output
 Put " The change is $" to output
-Put priceChange to output
+Put pChange to output
 Put " since last month.\n" to output
-Put "The estimated monthly mortgage is $" to output
-Put estMortgage to output with 2 decimal places Put "." to output
+Put "The estimated monthly mortage is $" to output
+Put estMortgage to output with 2 decimal places
+Put "." to output
