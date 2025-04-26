@@ -34,5 +34,11 @@ z = RaiseToPower(x, SquareRoot(y))
 z = SquareRoot(RaiseToPower(y, 5) / x)
 
 
+![[Pasted image 20250426173401.png]]
+
+
+
+z = SquareRoot(RaiseToPower(x, 3) - AbsoluteValue(y))
+
 
 https://en.wikipedia.org/wiki/Pythagorean_theorem
