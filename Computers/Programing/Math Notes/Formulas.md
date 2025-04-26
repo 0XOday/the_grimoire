@@ -21,4 +21,15 @@ to solve for SquareRoot you find a number that when its multiplied by itself it 
 
 ```
 
+![[Pasted image 20250426171053.png]]
+
+z = RaiseToPower(SquareRoot(y - x), 5)
+
+![[Pasted image 20250426171128.png]]
+
+z = RaiseToPower(x, SquareRoot(y))
+
+
+
+
 https://en.wikipedia.org/wiki/Pythagorean_theorem
