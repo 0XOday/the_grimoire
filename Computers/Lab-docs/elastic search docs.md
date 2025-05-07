@@ -31,3 +31,6 @@ XFS and quotas enabled on all allocators to display disk usage correctly.
 system rec 
  [Disabled nscd daemon](https://www.elastic.co/docs/deploy-manage/deploy/cloud-enterprise/ece-sysconfig#ece-sysconfig-nscd)
 	 On Linux systems, the [name service cache daemon (nscd)](https://linux.die.net/man/8/nscd) can prevent ECE from installing successfully. For example, it might block various networking components from functioning properly, including the container’s ability to resolve connections to its host. Before running the ECE install process this service should be disabled on your system. The nscd daemon needs to be permanently stopped, even after ECE installation.
+
+https://www.elastic.co/docs/deploy-manage/deploy/self-managed/important-system-configuration
+
