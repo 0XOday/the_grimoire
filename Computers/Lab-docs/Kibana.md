@@ -1,0 +1,5 @@
+```
+sudo /usr/share/elasticsearch/bin/elasticsearch-create-enrollment-token -s kibana
+eyJ2ZXIiOiI4LjE0LjAiLCJhZHIiOlsiMTkyLjE2OC4xMjkuMjE0OjkyMDAiXSwiZmdyIjoiNzFkNDI0YjBhNWJmN2E0MDQyMDY0YjhlN2M4ZWE4YTBkOWJiNGJkMjdjYmQ3YzU0ZDFmZGQ4OTk5YTRkMjlhMSIsImtleSI6ImVnQ1JySllCMHQyRnlzbmE2M3BZOnl1eGd4bW94SEdCOXFsRnpFazNJWVEifQ==
+```
+
