@@ -34,3 +34,4 @@ system rec
 
 https://www.elastic.co/docs/deploy-manage/deploy/self-managed/important-system-configuration
 
+![[Pasted image 20250507151822.png]]
