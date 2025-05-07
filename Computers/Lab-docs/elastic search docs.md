@@ -35,3 +35,21 @@ system rec
 https://www.elastic.co/docs/deploy-manage/deploy/self-managed/important-system-configuration
 
 ![[Pasted image 20250507151822.png]]
+
+
+## [Directory layout of RPM](https://www.elastic.co/docs/deploy-manage/deploy/self-managed/install-elasticsearch-with-rpm#rpm-layout)
+
+The RPM places config files, logs, and the data directory in the appropriate locations for an RPM-based system:
+
+|Type|Description|Default Location|Setting|
+|---|---|---|---|
+|home|Elasticsearch home directory or `$ES_HOME`|`/usr/share/elasticsearch`||
+|bin|Binary scripts including `elasticsearch` to start a node and `elasticsearch-plugin` to install plugins|`/usr/share/elasticsearch/bin`||
+|conf|Configuration files including `elasticsearch.yml`|`/etc/elasticsearch`|[`ES_PATH_CONF`](https://www.elastic.co/docs/deploy-manage/deploy/self-managed/configure-elasticsearch#config-files-location)|
+|conf|Environment variables including heap size, file descriptors.|`/etc/sysconfig/elasticsearch`||
+|conf|Generated TLS keys and certificates for the transport and http layer.|`/etc/elasticsearch/certs`||
+|data|The location of the data files of each index / shard allocated on the node.|`/var/lib/elasticsearch`|[`path.data`](https://www.elastic.co/docs/deploy-manage/deploy/self-managed/important-settings-configuration#path-settings)|
+|jdk|The bundled Java Development Kit used to run Elasticsearch. Can be overridden by setting the `ES_JAVA_HOME` environment variable in `/etc/sysconfig/elasticsearch`.|`/usr/share/elasticsearch/jdk`||
+|logs|Log files location.|`/var/log/elasticsearch`|[`path.logs`](https://www.elastic.co/docs/deploy-manage/deploy/self-managed/important-settings-configuration#path-settings)|
+|plugins|Plugin files location. Each plugin will be contained in a subdirectory.|`/usr/share/elasticsearch/plugins`||
+|repo|Shared file system repository locations. Can hold multiple locations. A file system repository can be placed in to any subdirectory of any directory specified here.|Not configured|[`path.repo`](https://www.elastic.co/docs/deploy-manage/tools/snapshot-and-restore/shared-file-system-repository)|
