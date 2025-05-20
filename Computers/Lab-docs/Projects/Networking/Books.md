@@ -1,4 +1,5 @@
 ### The art of Network Architecture: Business-Driven design
 
-* Chapter 1 
+* Chapter 1 Business and Technology 
+	* 
 * 
