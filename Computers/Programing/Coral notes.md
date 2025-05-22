@@ -13,3 +13,14 @@ Integer division throws away the remainder.
 		* float-to-integer_ conversion just drops the fraction: 4.9 becomes 4.
 	* Example
 		* `expectedMales = 0.504 * numBirths` as stated above implicit type casting is preformed due to one operand being a float   
+
+
+## Chapter 3 section 5 : operators
+```
+10 << x << 15 = Math expression 
+
+(10 < x ) and ( x < 15 ) Corl expression 
+
+Both of these detect if a value is within a given range 
+
+```
