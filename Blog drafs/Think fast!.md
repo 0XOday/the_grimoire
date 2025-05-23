@@ -7,7 +7,7 @@ You blame no one for this mess you've made or your past self for leaving somethi
 
 You don't, at least not by yourself. You play into your strengths that you have and that is will power, passion and the unrelenting need desire to climb that mountain alone as long as you can. That mountain being Cyber Security.
 
-Sitting at my plastic desk staring at my laptop screen getting ready for another long day. Whats the plan as I ask myself job apps study read all relating to IT or a subject supporting it. I was self teaching myself how to read better understand more interconnected concepts how to put myself out there with my community  
+Sitting at my plastic desk staring at my laptop screen getting ready for another long day. Whats the plan as I ask myself job applications kill some tryhackme labs and read all relating to IT or subjects supporting it. I do this for a few months. Small improvements but you can only improve so much while in survival mode.  
 
 
 
