@@ -13,6 +13,8 @@ After one of my study sessions you stumble upon this strange blog that you found
 
 Everything that was being talked about was talked to depth that I was not on and I not being a good writer I could at least be a good listener in VC. So I did that for hours and hours with people coming and going but one person that stood out was this fucker named TheThirdlegion.   
 
+Her and I had the same schedule at the time so it became extremely easy to be in one company. At first I kept my responses short and sweet they like to describe it as cagey but hey what ever I am fighting for my god damn life here and don't wanna say it just please continue the ninth hour of this info dump session please.
+
 
 
 
