@@ -11,4 +11,7 @@ the components of k8s
 	* Componet of the control plane 
 	* the API server is the front end for the control plane 
 	* we can run more than one api-server to load balance 
-* 
+* etcd
+	* Consistent and highly available key value used for all cluster data 
+	* A backup plan is recommended [here](https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade-etcd/#backing-up-an-etcd-cluster)
+	* 
