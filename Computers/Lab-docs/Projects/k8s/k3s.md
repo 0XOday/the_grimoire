@@ -1,0 +1,1 @@
+provides an all in one set up for k8s 
