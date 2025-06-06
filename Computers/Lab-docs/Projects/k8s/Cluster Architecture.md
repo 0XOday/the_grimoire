@@ -14,4 +14,8 @@ the components of k8s
 * etcd
 	* Consistent and highly available key value used for all cluster data 
 	* A backup plan is recommended [here](https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade-etcd/#backing-up-an-etcd-cluster)
+* Kube-scheduler 
+	* A control plane componet that watches for newly created pods with no assigned node then assigns a node from them to run on. 
+	* Factors such as hw/sw policy constraints, addinity and anti-affinity specs, data locality, inter-workload interfaces and deadlines.
+* Kube-controller-manager 
 	* 
