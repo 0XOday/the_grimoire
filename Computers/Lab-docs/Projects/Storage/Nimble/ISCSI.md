@@ -1,7 +1,11 @@
 rescan for changes on a active session 
 ``iscsiadm -m node -R``
 
+` iscsiadm -m discovery -t st -p <IP> `
 
+````
+iscsiadm -m node -T iqn.2006-04.com.example:444 -l
+````
 
 
 
