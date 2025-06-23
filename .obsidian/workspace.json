@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "d7b2274fdc670504",
+    "type": "split",
+    "children": [
+      {
+        "id": "01274f66c2855da4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8010be74b38ed6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computers/Lab-docs/Projects/Storage/nfs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "nfs"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b677afa778bdca6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "75a9ec6f7c38af01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1eb596a29cd0f530",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "910f43bad39750bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "97aaca39b17f1e7d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2911dc6c712be93b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3ef05e159cbc204",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef3080483e0ef66a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computers/Lab-docs/Projects/Automation/Ansiable commands.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Ansiable commands"
+            }
+          },
+          {
+            "id": "dddc9aaa000a4b51",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computers/Lab-docs/Projects/Automation/Ansiable commands.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Ansiable commands"
+            }
+          },
+          {
+            "id": "abd0a2232a43b2ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "58e160be103edc2c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computers/Lab-docs/Projects/Automation/Ansiable commands.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Ansiable commands"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f8010be74b38ed6a",
+  "lastOpenFiles": [
+    "Computers/Lab-docs/Projects/Storage/Nimble/ISCSI.md",
+    "Computers/Lab-docs/Projects/Storage/nfs.md",
+    "Computers/Lab-docs/Projects/Networking/Networking/Network info.md",
+    "Computers/Lab-docs/Projects/Automation/Ansiable commands.md",
+    "Computers/Lab-docs/Projects/Automation/Ansible wife config.md",
+    "Computers/Lab-docs/Projects/Storage/Nimble/edit mount points.md",
+    "Computers/Storage/Disk Configuration.md"
+  ]
+}
