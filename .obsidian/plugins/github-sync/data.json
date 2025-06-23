@@ -1,5 +1,5 @@
 {
-  "remoteURL": "https://github.com/0XOday/the_grimoire.git",
+  "remoteURL": "git@github.com:0XOday/the_grimoire.git",
   "gitLocation": "",
   "syncinterval": 5,
   "isSyncOnLoad": true,
