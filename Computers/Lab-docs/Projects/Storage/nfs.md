@@ -17,6 +17,10 @@ $ sudo chown root:staff /nfs/exports/myshare
 
 $ sudo chmod 775 /nfs/exports/myshare
 
+$ sudo exportfs -r
 
+$ sudo firewall-cmd --add-service nfs --permanent
+
+$ 
 
 ```
