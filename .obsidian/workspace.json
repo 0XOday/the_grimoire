@@ -11,14 +11,17 @@
             "id": "f8010be74b38ed6a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Computers/Programing/Coarl notes/Math Notes/7.1 algorithms.md",
-                "mode": "source",
-                "source": false
+                "file": "Computers/Lab-docs/Projects/Networking/Networking/Untitled.canvas",
+                "viewState": {
+                  "x": -576,
+                  "y": -266.5,
+                  "zoom": -0.47019880755261223
+                }
               },
-              "icon": "lucide-file",
-              "title": "7.1 algorithms"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -171,14 +174,25 @@
   },
   "active": "f8010be74b38ed6a",
   "lastOpenFiles": [
-    "Computers/Programing/Coarl notes/6.1 User-defined function basics.md",
+    "Computers/Lab-docs/Projects/Networking/Networking/TikTSing/bridge isums.md",
+    "Computers/Lab-docs/Projects/Networking/Books.md",
+    "Computers/Lab-docs/Projects/MS Sharepoint/Docs to read.md",
+    "Computers/Lab-docs/Projects/Logging/Elastic/Logstash.md",
+    "Computers/Lab-docs/Projects/Logging/Elastic/Kibana.md",
+    "Computers/Lab-docs/Projects/Logging/Elastic/fleet-server.md",
+    "Computers/Lab-docs/Projects/Logging/Elastic/Elastic stack networking.md",
+    "Computers/Lab-docs/Projects/Logging/Elastic/elastic search docs.md",
+    "Computers/Lab-docs/Projects/Logging/Elastic/Automation with ansible.md",
+    "Computers/Lab-docs/Projects/k3s/Volumes and Storage.md",
+    "Computers/Lab-docs/Projects/Automation/Ansible wife config.md",
     "Computers/Programing/Coarl notes/Math Notes/7.1 algorithms.md",
+    "Computers/Lab-docs/Projects/Storage/Backup soutltions/Nimble.md",
+    "Computers/Programing/Coarl notes/6.1 User-defined function basics.md",
     "Computers/Programing/Coarl notes/3.6 Order of evaluation.md",
     "Computers/Lab-docs/Projects/Storage/nfs.md",
     "Computers/Lab-docs/Projects/Storage/Nimble/ISCSI.md",
     "Computers/Lab-docs/Projects/Networking/Networking/Network info.md",
     "Computers/Lab-docs/Projects/Automation/Ansiable commands.md",
-    "Computers/Lab-docs/Projects/Automation/Ansible wife config.md",
     "Computers/Lab-docs/Projects/Storage/Nimble/edit mount points.md",
     "Computers/Storage/Disk Configuration.md"
   ]
