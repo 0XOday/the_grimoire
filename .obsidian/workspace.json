@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computers/Lab-docs/Projects/Automation/Ansiable commands.md",
+                "file": "Computers/windows/notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ansiable commands"
+              "title": "notes"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "program",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,6 +171,8 @@
   },
   "active": "f8010be74b38ed6a",
   "lastOpenFiles": [
+    "Computers/windows/Advanced configuration and power interface APCI.md",
+    "Computers/Lab-docs/Projects/Automation/Ansiable commands.md",
     "Computers/Best Practice Documentation/Change management concepts.md",
     "Computers/Lab-docs/Projects/Storage/Nimble/ISCSI.md",
     "Computers/Lab-docs/Projects/Storage/Nimble/edit mount points.md",
@@ -195,7 +197,6 @@
     "Computers/Programing/Coarl notes/3.6 Order of evaluation.md",
     "Computers/Lab-docs/Projects/Storage/nfs.md",
     "Computers/Lab-docs/Projects/Networking/Networking/Network info.md",
-    "Computers/Lab-docs/Projects/Automation/Ansiable commands.md",
     "Computers/Storage/Disk Configuration.md"
   ]
 }
