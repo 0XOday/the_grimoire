@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computers/windows/Untitled.md",
+                "file": "Computers/windows/Administrative tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Administrative tools"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "network settings",
+                "query": "Defragment and Optimize Drives (dfrgui.exe)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,8 +172,8 @@
   },
   "active": "f8010be74b38ed6a",
   "lastOpenFiles": [
+    "Computers/windows/Networking settings.md",
     "Computers/Configure Workstation Security/execution control.md",
-    "Computers/windows/Untitled.md",
     "Computers/windows/Managing Windows Networking/Windows Networking Connection Types.md",
     "Computers/windows/Manage Windows Shares/Home folders.md",
     "Computers/windows/power options.md",
