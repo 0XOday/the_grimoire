@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computers/windows/System information.md",
+                "file": "Computers/windows/User and Group Accounts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "System information"
+              "title": "User and Group Accounts"
             }
           }
         ]
@@ -171,32 +171,32 @@
   },
   "active": "f8010be74b38ed6a",
   "lastOpenFiles": [
+    "Computers/windows/Windows power settings.md",
+    "Computers/windows/User and Group Accounts.md",
+    "Computers/windows/Windows System veriables.md",
+    "Computers/windows/Windows lab notes.md",
+    "Computers/windows/Windows keyboard shortcuts.md",
+    "Computers/windows/Windows dir struct.md",
+    "Computers/windows/Windows Command Prompt and Powershell.md",
     "Computers/windows/System management commands.md",
-    "Computers/windows/Troubleshoot Windows Networking/troubleshoot network ports.md",
-    "Computers/windows/Manage Windows Shares/Guidelines for managing Windows Networking.md",
-    "Computers/windows/Administrative tools.md",
-    "Computers/windows/Networking settings.md",
-    "Computers/Configure Workstation Security/execution control.md",
-    "Computers/windows/Managing Windows Networking/Windows Networking Connection Types.md",
-    "Computers/windows/Manage Windows Shares/Home folders.md",
+    "Computers/windows/System information.md",
+    "Computers/windows/rsysmon.md",
+    "Computers/windows/Resource monitor and performance monitor.md",
+    "Computers/windows/Registry editor.md",
+    "Computers/windows/Advanced configuration and power interface APCI.md",
     "Computers/windows/power options.md",
     "Computers/windows/notes.md",
-    "Computers/windows/Advanced configuration and power interface APCI.md",
-    "Computers/Lab-docs/Projects/Automation/Ansiable commands.md",
-    "Computers/Best Practice Documentation/Change management concepts.md",
-    "Computers/Lab-docs/Projects/Storage/Nimble/ISCSI.md",
-    "Computers/Lab-docs/Projects/Storage/Nimble/edit mount points.md",
-    "Computers/Lab-docs/Projects/Storage/ZFS.md",
-    "Computers/Lab-docs/Projects/SSO/Autentik.md",
-    "Computers/Lab-docs/Projects/Nignx/Automation with ansible.md",
-    "Computers/Lab-docs/Projects/Networking/Networking/Untitled.canvas",
-    "Computers/Lab-docs/Projects/Networking/Networking/TikTSing/bridge isums.md",
-    "Computers/Lab-docs/Projects/Networking/Books.md",
-    "Computers/Lab-docs/Projects/MS Sharepoint/Docs to read.md",
-    "Computers/Lab-docs/Projects/Logging/Elastic/Logstash.md",
-    "Computers/Lab-docs/Projects/Logging/Elastic/Kibana.md",
-    "Computers/Lab-docs/Projects/Logging/Elastic/fleet-server.md",
-    "Computers/Lab-docs/Projects/Logging/Elastic/Elastic stack networking.md",
-    "Computers/Lab-docs/Projects/Logging/Elastic/elastic search docs.md"
+    "Computers/windows/Networking settings.md",
+    "Computers/windows/Microsoft Management Consoles.md",
+    "Computers/windows/group policy editor.md",
+    "Computers/windows/Event viewer.md",
+    "Computers/windows/Disk management console.md",
+    "Computers/windows/Disk management commands.md",
+    "Computers/windows/Disk maintenance tools.md",
+    "Computers/windows/Configure Windows System Settings.md",
+    "Computers/windows/Certificate manager.md",
+    "Computers/windows/Administrative tools.md",
+    "Computers/windows/Troubleshoot Windows Networking/troubleshoot network ports.md",
+    "Computers/Lab-docs/Projects/Networking/Networking/Untitled.canvas"
   ]
 }
