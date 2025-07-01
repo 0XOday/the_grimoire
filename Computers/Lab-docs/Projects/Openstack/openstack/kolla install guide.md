@@ -7,7 +7,11 @@ also grab ssh keys for both root and rosepaladin copy them over to both accounts
 edit the suborders file to disable sudo 
 
 
-things we enabled 
+things we enabled in `etc/kolla/gloabls.yaml`
+
+
+we have to init `source /path/to/venv/bin/activate` the virt enrionment 
+
 
 ```
 enable_central_logging: "yes"
