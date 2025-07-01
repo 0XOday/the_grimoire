@@ -2,6 +2,8 @@
 
 have to set up a lvm group for cinder-volumes Note we want to have this name because it is the default name 
 
+`sudo vgcreate cinder-volumes /dev/sda /dev/sdb`
+
 also grab ssh keys for both root and rosepaladin copy them over to both accounts Note we just ssh in ourself
 
 edit the suborders file to disable sudo 
