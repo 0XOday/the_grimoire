@@ -12,6 +12,8 @@ things we enabled in `etc/kolla/gloabls.yaml`
 
 we have to init `source /path/to/venv/bin/activate` the virt environment 
 
+have to install ansible-core via pip
+
 
 ```
 enable_central_logging: "yes"
