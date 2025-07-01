@@ -4,3 +4,25 @@ have to set up a lvm group for cinder-volumes Note we want to have this name bec
 
 
 
+things we enabled 
+
+```
+enable_central_logging: "yes"
+
+enable_cinder: "yes"
+
+enable_cinder_backend_lvm: "yes"
+
+network_interface: "ens18"
+
+kolla_internal_vip_address: "192.168.129.2"
+
+enable_neutron_provider_networks: "yes"
+
+enable_skyline: "yes"
+
+
+
+
+
+```
