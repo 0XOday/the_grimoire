@@ -1,0 +1,1 @@
+`pip install git+https://opendev.org/openstack/kolla-ansible@stable/2024.1` works 
