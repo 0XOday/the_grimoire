@@ -38,3 +38,5 @@ enable_skyline: "yes"
 
 
 ```
+
+ TSing Notes : make sure you are using the VIP if you are experiencing image upload fails and or strange daemonic errors .   
