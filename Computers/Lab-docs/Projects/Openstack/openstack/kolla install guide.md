@@ -40,3 +40,6 @@ enable_skyline: "yes"
 ```
 
  TSing Notes : make sure you are using the VIP if you are experiencing image upload fails and or strange daemonic errors .   
+
+
+`openstack network create --share -external --provider-physical-network physnet1 --provider-network-type flat whatever-you-want-to-call-it`
