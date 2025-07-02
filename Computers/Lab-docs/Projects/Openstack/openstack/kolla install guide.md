@@ -16,6 +16,7 @@ we have to init `source /path/to/venv/bin/activate` the virt environment
 
 have to install ansible-core via pip
 
+we want to also source admin-openrc.sh for our open stack creds 
 
 ```
 enable_central_logging: "yes"
