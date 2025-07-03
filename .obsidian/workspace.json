@@ -11,14 +11,17 @@
             "id": "f8010be74b38ed6a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Computers/Lab-docs/Projects/Openstack/openstack/Good single node deploy kolla.md",
-                "mode": "source",
-                "source": false
+                "file": "Computers/Lab-docs/Projects/Openstack/openstack/Open-Stack Networking.canvas",
+                "viewState": {
+                  "x": -1034.3953090794396,
+                  "y": -534.7639437993776,
+                  "zoom": 0.04203237369034951
+                }
               },
-              "icon": "lucide-file",
-              "title": "Good single node deploy kolla"
+              "icon": "lucide-layout-dashboard",
+              "title": "Open-Stack Networking"
             }
           }
         ]
@@ -171,8 +174,8 @@
   },
   "active": "f8010be74b38ed6a",
   "lastOpenFiles": [
-    "Computers/Lab-docs/Projects/Openstack/openstack/Open-Stack Networking.canvas",
     "Computers/Lab-docs/Projects/Openstack/openstack/Good single node deploy kolla.md",
+    "Computers/Lab-docs/Projects/Openstack/openstack/Open-Stack Networking.canvas",
     "Computers/Lab-docs/Projects/Openstack/openstack/kolla install guide.md",
     "Computers/windows/User and Group Accounts.md",
     "Computers/windows/Windows power settings.md",
