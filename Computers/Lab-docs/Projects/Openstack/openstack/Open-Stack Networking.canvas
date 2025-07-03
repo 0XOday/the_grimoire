@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2aff7bc5ba5d98dc","x":-1000,"y":-580,"width":480,"height":380,"type":"text","text":"CRS-326\n\n```\n\n\n\n\n```"},
+		{"id":"0a7250a64e21ff78","type":"text","text":"Ammo-can\n\n```\n\n\n\n\n```","x":-460,"y":-580,"width":480,"height":380},
+		{"id":"e6fc4ff823e55997","type":"text","text":"309\n\n```\n\n\n\n\n\n```","x":-1000,"y":-140,"width":480,"height":360},
+		{"id":"4c41c2118dc6cea7","type":"text","text":"Rason-box\n\n```\n\n\n\n\n```","x":-460,"y":-140,"width":480,"height":360},
+		{"id":"5580e3fff8d277ed","type":"text","text":"HotPot\n\n```\n\n\n\n\n```","x":140,"y":-580,"width":480,"height":380},
+		{"id":"9ba90f739515ae2b","type":"text","text":"2004\n```\n\n\n\n\n```","x":140,"y":-140,"width":480,"height":360}
+	],
+	"edges":[]
+}
