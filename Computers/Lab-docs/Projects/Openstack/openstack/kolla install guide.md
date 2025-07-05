@@ -45,3 +45,8 @@ enable_skyline: "yes"
 `openstack network create --share -external --provider-physical-network physnet1 --provider-network-type flat whatever-you-want-to-call-it`
 
 open search 
+
+
+neutron_external_interface: "enp1s0f1np.1011"
+
+
