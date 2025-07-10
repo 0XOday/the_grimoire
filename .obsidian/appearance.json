@@ -1,5 +1,6 @@
 {
   "cssTheme": "AnuPpuccin",
   "theme": "obsidian",
-  "accentColor": "#eca7e6"
+  "accentColor": "#eca7e6",
+  "nativeMenus": false
 }
