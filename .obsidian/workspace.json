@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life/2025-07-11.md",
+                "file": "Computers/Programing/Coarl notes/Math Notes/7.1 algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-11"
+              "title": "7.1 algorithms"
             }
           }
         ],
@@ -187,8 +187,8 @@
   },
   "active": "318213083f99e28c",
   "lastOpenFiles": [
-    "Life/2025-07-21.md",
     "Life/2025-07-11.md",
+    "Life/2025-07-21.md",
     "Life/THE LIST.md",
     "Computers/SOHO Network Sec/RADIUS, TACACS+, AND KERBROS.md",
     "Computers/Lab-docs/Projects/Openstack/openstack/kolla install guide.md",
