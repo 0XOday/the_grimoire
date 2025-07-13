@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computers/windows/Configure Windows Security Settings/User and group accounts.md",
+                "file": "Computers/windows/Configure Windows Security Settings/Windows domains and Active directory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "User and group accounts"
+              "title": "Windows domains and Active directory"
             }
           }
         ],
@@ -187,6 +187,7 @@
   },
   "active": "318213083f99e28c",
   "lastOpenFiles": [
+    "Computers/windows/Configure Windows Security Settings/User and group accounts.md",
     "Computers/windows/Configure Windows Security Settings/USER ACCOUNT CONTROL.md",
     "Computers/windows/Configure Windows Security Settings/Mobile Device Management.md",
     "Computers/windows/Configure Windows Security Settings/Logical Security controls.md",
@@ -213,7 +214,6 @@
     "Computers/windows/System information.md",
     "Computers/windows/rsysmon.md",
     "Computers/windows/Resource monitor and performance monitor.md",
-    "Computers/windows/Registry editor.md",
     "Computers/Lab-docs/Projects/Networking/Networking/Untitled.canvas"
   ]
 }
