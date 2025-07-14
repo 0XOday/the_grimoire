@@ -14,13 +14,13 @@ information about partitions is stored on the disk itself in one of two types : 
 
 * The globally unique identifier (GUID) partition table (GPT) style provides a more up-to-date scheme to address some of the limitations of MBR. One of the features of GPT is support for more than four primary partitons. Windows allows up to 128 partitions with GPT. GPT also supports larger partitions 2 TB + and a backup copy of the partition entries. A GPT-style disk includes a protective MBT for compatibility with systems that do not recognize GPT
 
-When the disk uses GPT partitioning, the system firmware must be set to use the UEFI boot method. If the boot method is set to BIOS, the disk will not be recognized as a boot device. 
+* When the disk uses GPT partitioning, the system firmware must be set to use the UEFI boot method. If the boot method is set to BIOS, the disk will not be recognized as a boot device. 
 
-Note : The mbr2gpt utility can be used in a windows 10 1703 and later to convert a disk with an existing partition structure and data. there are also third-party utilities that will perform this type of conversion. as with any important system change, A backup should be made before attemting the conversion. Following the conversion, use the firmware setup program to switch to UEFI boot mode.
+	* Note : The mbr2gpt utility can be used in a windows 10 1703 and later to convert a disk with an existing partition structure and data. there are also third-party utilities that will perform this type of conversion. as with any important system change, A backup should be made before attemting the conversion. Following the conversion, use the firmware setup program to switch to UEFI boot mode.
 
 **Drive Format**
 
-An OS must be installed to a partition formatted useing a compatible file system. For Windows, this means using NTFS, MacOS APFS and Linux can use ext3/ext4 or a variety of other file system types. During an attended installation, Partition and formatting choices are guided by the setup program. 
+* An OS must be installed to a partition formatted useing a compatible file system. For Windows, this means using NTFS, MacOS APFS and Linux can use ext3/ext4 or a variety of other file system types. During an attended installation, Partition and formatting choices are guided by the setup program. 
 
 
 
