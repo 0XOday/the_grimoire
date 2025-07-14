@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computers/Storage/File Systems.md",
+                "file": "Computers/Storage/Windows file system types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "File Systems"
+              "title": "Windows file system types"
             }
           }
         ],
@@ -187,10 +187,10 @@
   },
   "active": "318213083f99e28c",
   "lastOpenFiles": [
+    "Computers/Storage/List of File Systems.md",
     "Computers/Storage/FAT32.md",
     "Computers/Storage/exFAT.md",
     "Computers/Storage/Disk Configuration.md",
-    "Computers/Storage/File Systems.md",
     "Computers/pictures/typical-windows-directory-structure.png",
     "Computers/Mobile OS Sec/Mobile app source sec concerns.md",
     "Computers/Mobile OS Sec/Locater apps and remote wipe.md",
