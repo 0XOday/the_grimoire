@@ -25,12 +25,14 @@
             "id": "318213083f99e28c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Computers/Programing/Coarl notes/Math Notes/Pasted image 20250426171053.png"
+                "file": "Computers/windows/Disk maintenance tools.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250426171053"
+              "icon": "lucide-file",
+              "title": "Disk maintenance tools"
             }
           }
         ],
@@ -185,6 +187,18 @@
   },
   "active": "318213083f99e28c",
   "lastOpenFiles": [
+    "Computers/windows/Configure Windows System Settings.md",
+    "Computers/windows/Certificate manager.md",
+    "Life/2025-07-11.md",
+    "Computers/windows/Windows lab notes.md",
+    "Computers/windows/Disk management commands.md",
+    "Computers/Lab-docs/Projects/Openstack/openstack/Good single node deploy kolla.md",
+    "Computers/Lab-docs/Projects/Openstack/openstack/kolla install guide.md",
+    "Computers/linux stuff/Shells,terminals, and consoles.md",
+    "Computers/linux stuff/Random Things I did not know.md",
+    "Computers/linux stuff/Backup and scheduling commands.md",
+    "Computers/MacOs/Interface Features.md",
+    "Computers/Programing/Coarl notes/Math Notes/Pasted image 20250426171053.png",
     "Computers/Programing/Coarl notes/Math Notes/Pasted image 20250421010759.png",
     "Computers/windows/Configure Windows Security Settings/Windows domains and Active directory.md",
     "Computers/windows/Configure Windows Security Settings/User and group accounts.md",
@@ -196,22 +210,12 @@
     "Computers/Programing/9.1 Language survey.md",
     "Computers/Programing/Coarl notes/8.1 Software design processes.md",
     "Computers/Programing/Coarl notes/7.1 algorithms.md",
-    "Life/2025-07-11.md",
     "Life/2025-07-21.md",
     "Life/THE LIST.md",
     "Computers/SOHO Network Sec/RADIUS, TACACS+, AND KERBROS.md",
-    "Computers/Lab-docs/Projects/Openstack/openstack/kolla install guide.md",
     "Computers/Lab-docs/Projects/Openstack/openstack/Open-Stack Networking.canvas",
-    "Computers/Lab-docs/Projects/Openstack/openstack/Good single node deploy kolla.md",
     "Computers/windows/User and Group Accounts.md",
     "Computers/windows/Windows power settings.md",
-    "Computers/windows/Windows System veriables.md",
-    "Computers/windows/Windows lab notes.md",
-    "Computers/windows/Windows keyboard shortcuts.md",
-    "Computers/windows/Windows dir struct.md",
-    "Computers/windows/Windows Command Prompt and Powershell.md",
-    "Computers/windows/System management commands.md",
-    "Computers/windows/System information.md",
     "Computers/Lab-docs/Projects/Networking/Networking/Untitled.canvas"
   ]
 }
