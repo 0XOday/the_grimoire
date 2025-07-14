@@ -33,36 +33,38 @@ Stream ciphers work better when you don't know the size and transmit and receive
 
 ## Asymmetric Cryptography 
 
-Asymmetric Cryptography has a public key and a private key 
+* Public key and a private key 
 
-Elliptic curve Cryptography can use short keys while maintaining a higher Cryptography strength than many other types of algorithms. Its fast and efficient. Secure hash algorithm 2 (SHA-2) and Elliptic curve Digital Signature Algorithm (ECDSA) Uses ECC. 
+# Elliptic curve Cryptography
+* use short keys while maintaining a higher Cryptography strength than many other types of algorithms. Its fast and efficient. Secure hash algorithm 2 (SHA-2) and Elliptic curve Digital Signature Algorithm (ECDSA) Uses ECC. 
 
-Many protocols and applications are based on asymmetric cryptography. PGP SSL TLS and some VoIP
-
+ Note : Many protocols and applications are based on asymmetric cryptography. PGP SSL TLS and some VoIP
 
 ## Hash Functions 
 
-Hash Functions represent a third type of modern cryptography which is called key less cryptography.
-Hash functions or message digest convert plaintext into largely unique and fixed-length value 
+* Hash Functions represent a third type of modern cryptography which is called key less cryptography.
 
-It is theoretically possible to engineer a matching hash for two different sets of data called a collision. This only happens if you are using a broken hashing algo like MD5 and SHA-1 
+* Hash functions or message digest convert plaintext into largely unique and fixed-length value 
 
-We use sha-2 and sha-3 MD-2,MD4 and RACE
+* It is theoretically possible to engineer a matching hash for two different sets of data called a collision. This only happens if you are using a broken hashing algo like MD5 and SHA-1 
+
+* We use sha-2 and sha-3 MD-2,MD4 and RACE
 
 ## Digital signatures 
 
-Another way to use asymmetric algorithms and their associated public and private keys are digital signature.
+* Another way to use asymmetric algorithms and their associated public and private keys are digital signature.
 
-A digital signature allows you to sign a message so that others can detect any change to the message after you've sent it. 
+* A digital signature allows you to sign a message so that others can detect any change to the message after you've sent it. 
 
 ## Certificates 
 
-in addition to hashes and digital signatures. You can use Certificates to sign your messages. Digital signatures link a public to an individual by validating that key belongs to the proper owner. 
-you typically create a certificate by taking the public key and identifying information such as a name and address and having them signed by a trusted entity that handles digital certificates, called *certificate authority*
+* In addition to hashes and digital signatures. You can use Certificates to sign your messages. Digital signatures link a public to an individual by validating that key belongs to the proper owner. 
 
-A certificate authority is the entity that issues certificates. It acts as a trusted third party to both sides of the transactions that involve certificates by singing the certificate to begin with and later verifying that it is still valid.
+* You typically create a certificate by taking the public key and identifying information such as a name and address and having them signed by a trusted entity that handles digital certificates, called *certificate authority*
 
-one known certificate authority is VeriSign
+* A certificate authority is the entity that issues certificates. It acts as a trusted third party to both sides of the transactions that involve certificates by singing the certificate to begin with and later verifying that it is still valid.
+
+* One known certificate authority is VeriSign
 
 
 ## Protecting data at rest in motion and in use.
