@@ -10,17 +10,13 @@ Rule-Based Access Control
 Attribute-Based Access Control (ABAC) 
 * Provides dynamic access control based on a variety of attributes, enhancing security and flexibility.
 
-* Discretionary Access Control (DAC) is an access control model that allows the owner of 
-a resource (such as a file or folder) to determine who can access it and what 
-permissions they have. The owner has the discretion to grant or deny access to other 
-users.
-
-In DAC, permissions are typically set by the resource owner and can be modified at any 
-time. Users can share their access rights with others, creating a flexible yet potentially 
+* Discretionary Access Control (DAC)  
+	 * Access control model that allows the owner of a resource (such as a file or folder) to determine who can access it and what permissions they have. The owner has the discretion to grant or deny access to other users.
+	* Permissions are typically set by the resource owner and can be modified at any time. Users can share their access rights with others, creating a flexible yet potentially 
 less secure environment. For example, a file owner might grant read or write 
 permissions to specific users or groups, while retaining full control over the file.
 
-DAC is useful in environments where collaboration is essential, as it allows resource 
+*  useful in environments where collaboration is essential, as it allows resource 
 owners to manage access easily. However, it may introduce security risks, as users can 
 unintentionally grant access to unauthorized individuals. Organizations often use DAC 
 in less sensitive areas where flexibility is prioritized.
