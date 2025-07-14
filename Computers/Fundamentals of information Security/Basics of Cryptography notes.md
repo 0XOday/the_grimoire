@@ -1,18 +1,19 @@
-Kerckoffs's Principles 
-	1. The system must substantially, if not mathematically,undecipherable
-	2. The system must not require secrecy; even if stolen by the enemy, the system should remain secure.
-	3. the keys must be easy to communicate and remember without written notes, and they must be easy to change or modify to use with different participants.
-	4. The system ought to be compatible with communication via telegraph.
-	5. The system must be portable, and its use must not require more than one person.
-	6. Finally, the system must be easy to use, requiring neither complex thinking nor the knowledge of a long series of rules. 
+# Kerckoffs's Principles 
+* The system must substantially, if not mathematically,undecipherable
+* The system must not require secrecy; even if stolen by the enemy, the system should remain secure.
+* The keys must be easy to communicate and remember without written notes, and they must be easy to change or modify to use with different participants.
+* The system ought to be compatible with communication via telegraph.
+* The system must be portable, and its use must not require more than one person.
+* Finally, the system must be easy to use, requiring neither complex thinking nor the knowledge of a long series of rules. 
 
 ## One-Time pads
-Vernam cipher, is an unbreakable cipher when used properly.
+* Vernam cipher, is an unbreakable cipher when used properly.
 To use it crate two copies of the same pad of paper containing a completely random set of numbers, known as *shifts.* you give one copy to each party. 
 
 ## Symmetric and Asymmetric Cryptography
 
-Symmetric Cryptography - Known as private key cryptography,*symmetric key cryptography* uses a single key to both encrypt the plaintext and decrypt the ciphertext. You must share the key between the sender and receiver. The fact that you must share a single key among all users of the system is one of the weaknesses of symmetric key Cryptography.
+* Symmetric Cryptography 
+	* Known as private key cryptography,*symmetric key cryptography* uses a single key to both encrypt the plaintext and decrypt the ciphertext. You must share the key between the sender and receiver. The fact that you must share a single key among all users of the system is one of the weaknesses of symmetric key Cryptography.
 
 ## Block Vs. Stream Ciphers 
 
