@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computers/Using Support and Scripting tools/Basic scripting/Use cases for scripting.md",
+                "file": "Computers/windows/Configure Windows Security Settings/Windows domains and Active directory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Use cases for scripting"
+              "title": "Windows domains and Active directory"
             }
           }
         ],
@@ -187,6 +187,16 @@
   },
   "active": "318213083f99e28c",
   "lastOpenFiles": [
+    "Computers/windows/Registry editor.md",
+    "Computers/windows/notes.md",
+    "Computers/Pasted image 20250111071410.png",
+    "Computers/Auditing KRACKs in WI-FI.md",
+    "Life/2025-07-21.md",
+    "Life/THE LIST.md",
+    "Life/The mechanics of Writing.md",
+    "Computers/Using Support and Scripting tools/Basic scripting/Windows scripts.md",
+    "Life/2025-07-11.md",
+    "Computers/Using Support and Scripting tools/Basic scripting/Use cases for scripting.md",
     "Computers/Using Support and Scripting tools/Basic scripting/Shell scripts.md",
     "Computers/Fundamentals of information Security/Standards and guide lines/ISO 27000.md",
     "Computers/Fundamentals of information Security/Standards and guide lines/ISO.md",
@@ -199,21 +209,11 @@
     "Computers/Best Practice Documentation/Policy Documentation.md",
     "Computers/Best Practice Documentation/Change management concepts.md",
     "Life/Daily notes/2025-01-28.md",
-    "Computers/Pasted image 20250111071410.png",
-    "Computers/Auditing KRACKs in WI-FI.md",
     "Computers/Kerberos Network Authentication Protocol.md",
     "Computers/windows/Windows System veriables.md",
     "Computers/windows/Windows power settings.md",
     "Computers/windows/Windows lab notes.md",
     "Computers/windows/User and Group Accounts.md",
-    "Computers/windows/System management commands.md",
-    "Computers/windows/System information.md",
-    "Computers/windows/rsysmon.md",
-    "Computers/windows/Registry editor.md",
-    "Computers/windows/notes.md",
-    "Computers/windows/Configure Windows Security Settings/Windows domains and Active directory.md",
-    "Computers/windows/Configure Windows Security Settings/User and group accounts.md",
-    "Computers/windows/Configure Windows Security Settings/USER ACCOUNT CONTROL.md",
     "Computers/Programing/Coarl notes/Math Notes/Pasted image 20250426173401.png",
     "Computers/Programing/Coarl notes/Math Notes/Pasted image 20250426171435.png",
     "Computers/Programing/Coarl notes/Math Notes/Pasted image 20250426171128.png",
