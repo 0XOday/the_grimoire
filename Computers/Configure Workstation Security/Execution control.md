@@ -5,9 +5,9 @@
 * AutoRun and AutoPlay
 * There are third party network management suites to enforce application control 
 
-AutoRun and Auto play
+# AutoRun and Auto play
 
 * Legacy versions of Windows auto play an optical disc or usb when attached
-* automatically run commands defined in an **autorun.inf** file stored in the root of the drive
-* modern versions of Windows have a dialog box pop up asking the user for what action to take 
-* you can configure autoplay settings via the drive property dialog box or in windows settings for global settings for auto play 
+* Automatically run commands defined in an **autorun.inf** file stored in the root of the drive
+* Modern versions of Windows have a dialog box pop up asking the user for what action to take 
+* You can configure autoplay settings via the drive property dialog box or in windows settings for global settings for auto play 

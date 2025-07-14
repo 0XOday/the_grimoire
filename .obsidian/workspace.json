@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computers/Best Practice Documentation/Change management concepts.md",
+                "file": "Computers/Configure Workstation Security/Windows Defender Firewall.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Change management concepts"
+              "title": "Windows Defender Firewall"
             }
           }
         ],
@@ -187,6 +187,18 @@
   },
   "active": "318213083f99e28c",
   "lastOpenFiles": [
+    "Computers/Configure Workstation Security/Windows Defender.md",
+    "Computers/Configure Workstation Security/Windows Bitlocker and Bitlocker to go.md",
+    "Computers/Configure Workstation Security/Password best practices.md",
+    "Computers/Configure Workstation Security/Execution control.md",
+    "Computers/Configure Workstation Security/End user best practices.md",
+    "Computers/Configure Workstation Security/Encrypting file system.md",
+    "Computers/Configure Workstation Security/Account polices.md",
+    "Computers/Configure Workstation Security/Account management.md",
+    "Computers/Best Practice Documentation/Ticking system.md",
+    "Computers/Best Practice Documentation/Standard operating procedure.md",
+    "Computers/Best Practice Documentation/Policy Documentation.md",
+    "Computers/Best Practice Documentation/Change management concepts.md",
     "Computers/SOHO Network Sec/troubleshooting workstation sec issues/Malware vectors.md",
     "Computers/SOHO Network Sec/troubleshooting workstation sec issues/Malware removal tools and methods.md",
     "Computers/SOHO Network Sec/troubleshooting workstation sec issues/Malware Payloads.md",
@@ -202,18 +214,6 @@
     "Computers/Storage/Disk Configuration.md",
     "Computers/pictures/typical-windows-directory-structure.png",
     "Computers/Mobile OS Sec/Mobile app source sec concerns.md",
-    "Computers/Mobile OS Sec/Locater apps and remote wipe.md",
-    "Computers/Mobile OS Sec/IOT sec.md",
-    "Computers/Mobile OS Sec/Enterprise mobility management.md",
-    "Computers/MacOs/Interface Features.md",
-    "Computers/linux stuff/Shells,terminals, and consoles.md",
-    "Computers/linux stuff/Scratch pad linux.md",
-    "Computers/linux stuff/Backup and scheduling commands.md",
-    "Computers/Lab-docs/tools/splunk download link.md",
-    "Computers/Lab-docs/tools/NFS-SHARE.md",
-    "Computers/Lab-docs/tools/Terminal.md",
-    "Computers/Lab-docs/tools/install Docker on rocky 9.5.md",
-    "Computers/Lab-docs/tools/Ansible.md",
     "Computers/Pasted image 20250111071410.png",
     "Computers/Programing/Coarl notes/Math Notes/Pasted image 20250426173401.png",
     "Computers/Programing/Coarl notes/Math Notes/Pasted image 20250426171435.png",
