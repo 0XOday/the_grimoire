@@ -1,10 +1,10 @@
-Many network services are now deployed as web applications. The HTTP/HTTPS web protocol is based on servers responding to client requests. A developer can extend the basic protocol with software code and information stored in databases to implement a dynamic web app, rather than simply retuning a static pages and graphics. A web application can use to methods of running code: 
+ The HTTP/HTTPS web protocol is based on servers responding to client requests. A developer can extend the basic protocol with software code and information stored in databases to implement a dynamic web app, rather than simply returning a static pages and graphics. A web application can use to methods of running code: 
 * Server-side code is run on the HTTP/HTTPS web server to process the request and build the response before it is sent to the client.
 * Client-side code runs within the web browser software on the client machine to modify the web page before it is displayed to the user or to modify requests made to the server.
 Most applications depend on user input. One of the most widespread vulnerabilities in web apps is failure to validate this input properly. For example, the user might need to sign in using an email address and password, So the web app presents two text-box fields for the user to input those values.
 if a threat actor can send a script via the username field and make the server or client execute that code, the web app has an input validation vulnerability 
 
-A Cross-site scripting XSS attack exploits the fact that the browser is likely to trust scripts that appear to come from a site that user has chosen to visit. XSS inserts a malicious script that appears to be part of the trusted site. A nonpersistent type of XSS attack would proceed as follows: 
+A Cross-site scripting XSS attack exploits the fact that the browser is likely to trust scripts that appear to come from a site that user has chosen to visit. XSS inserts a malicious script that appears to be part of the trusted site. A non persistent type of XSS attack would proceed as follows: 
 
 1. The attacker identifies an input validation vulnerability 
 2. The attacker crafts a URL to perform code injection against the trusted site. This could be coded in a link to the attackers site from the trusted site or a link in a phishing email message.
