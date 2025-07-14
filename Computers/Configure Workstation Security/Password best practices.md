@@ -4,4 +4,3 @@
 * a memorable phrase that excludes PII (personally identifiably information) 
 * policy's are typically numbers and symbols and on a rotation. ( While NIST or ISO standards changed that to only when breaches are confirmed ) 
 * Use a damn password manager
-* 

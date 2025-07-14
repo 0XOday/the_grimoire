@@ -2,10 +2,10 @@ A domain group policy configures computer settings and user profile settings. So
 
 Unlike a local computer, domain group policy objects (GPOs) can be applied to multiple user accounts and computers. This is done by linking a GPO to a domain or OU object in AD. For example, you could attach Sales GPOs to the Sales OU and the policies configured in those GPOs would apply to every user and computer account placed in the sales OU. A domain or OU can be linked to multiple GPOs. A system of inheritance determines the resultant set of policies (RSoPs) that apply to a particular computer or user account.
 
-*Group Policy Updates*
+# Group Policy Updates
 When updating local or group security policies, it is important to be familiar with the use of command-line tools : 
 
 * `gpupdate` - Policies are applied at sign-in and refreshed periodically (normally every 90 minutes). The gpupdate command is used to apply a new or changed policy to a computer and account profile immediately. Using the /force switch causes all policies (new and old) to be reapplied. The gpupdate command can be used with `/logoff` or `/boot` to allow a sign-out or reboot if the policy setting requires it.
 * `gpresult` - This command displays the RSoP for a computer and user account. When ran without switches, the help page is displayed the `/s /u and /p` switches can be used to specify a host (by name or ip address) user account, and password and /r can be used to display policies for the desktop.
-*Login Scripts* 
+# Login Scripts 
 A login Script performs some type of configuration or process activity when the user signs in. A Login script can be defined via the user profile or assigned to an account via group policy. A login script can be used to configure the environment for the user - setting environmental variables, mapping drives to specific server-based folders, and mapping to printers or other resources, for example. A login script can also be used to ensure that the client meets the security requirements for signing on to the network. For example, if the client has out-of-date software, login can be denied until the software is updated  
