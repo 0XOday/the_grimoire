@@ -1,4 +1,3 @@
-File systems is a structure used by an operating system to organize and manage files on a storage device. 
 
 ## FAT (File Allocation Table), FAT16, FAT32
 FAT is one of the oldest file systems, developed for MS-DOS and is still used in many removable storage devices. FAT16 and FAT 32 
