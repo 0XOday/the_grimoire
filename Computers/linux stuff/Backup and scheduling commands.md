@@ -1,6 +1,7 @@
-Linux does not have an "official" backup tool. You could create a custom backup soultion using the cron task scheduler and file copy scripts Backup could also use compression utilities, such as tar or gzip. There are plenty of commercial and open source back up products for Linux, however. Some examples include Amanda, bacula, fwbackups and Rsync.
+* Linux does not have an "official" backup tool. 
+* You could create a custom backup solution using the *cron* task scheduler and file copy scripts Backup could also use compression utilities, such as tar or gzip. There are plenty of commercial and open source back up products for Linux, however. Some examples include Amanda, bacula, fwbackups and Rsync.
 
-if you want to run a batch of commands or a script to perform a backup or other maintenance tasks, there is a scheduling service called cron. Every user of the system is allowed to schedule programs or tasks in their own personal crontab (cron table). These tables are merged by cron to create an overall system schedule. Every minute, the cron service checks the schedule and executes the programs for that period.
+* If you want to run a batch of commands or a script to perform a backup or other maintenance tasks, there is a scheduling service called cron. Every user of the system is allowed to schedule programs or tasks in their own personal crontab (cron table). These tables are merged by cron to create an overall system schedule. Every minute, the cron service checks the schedule and executes the programs for that period.
 
 * To add or delete a scheduled job, use the crontab editor. To review a user's crontab jobs, enter the command 
 * `crontab -l`

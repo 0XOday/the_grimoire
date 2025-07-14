@@ -1,5 +1,3 @@
-	
-	
 If you are using an Apple Mac computer for the first time, you will notice that the desktop and user interface is like a windows-based PC in some respects but different in others. As with Windows, a Mac boots to a graphical Desktop environment. Any apps that have been installed and configured to launch at boot will also start
 
 At the top of the screen is the menu bar. This is always present with all apps, but the menu titles change to show commands for the active window.
