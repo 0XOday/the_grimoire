@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computers/windows/Configure Windows Security Settings/Windows domains and Active directory.md",
+                "file": "Life/THE LIST.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Windows domains and Active directory"
+              "title": "THE LIST"
             }
           }
         ],
@@ -187,13 +187,14 @@
   },
   "active": "318213083f99e28c",
   "lastOpenFiles": [
+    "Computers/windows/Configure Windows Security Settings/Windows domains and Active directory.md",
+    "Life/The mechanics of Writing.md",
     "Computers/windows/Registry editor.md",
     "Computers/windows/notes.md",
     "Computers/Pasted image 20250111071410.png",
     "Computers/Auditing KRACKs in WI-FI.md",
     "Life/2025-07-21.md",
     "Life/THE LIST.md",
-    "Life/The mechanics of Writing.md",
     "Computers/Using Support and Scripting tools/Basic scripting/Windows scripts.md",
     "Life/2025-07-11.md",
     "Computers/Using Support and Scripting tools/Basic scripting/Use cases for scripting.md",
@@ -213,7 +214,6 @@
     "Computers/windows/Windows System veriables.md",
     "Computers/windows/Windows power settings.md",
     "Computers/windows/Windows lab notes.md",
-    "Computers/windows/User and Group Accounts.md",
     "Computers/Programing/Coarl notes/Math Notes/Pasted image 20250426173401.png",
     "Computers/Programing/Coarl notes/Math Notes/Pasted image 20250426171435.png",
     "Computers/Programing/Coarl notes/Math Notes/Pasted image 20250426171128.png",
