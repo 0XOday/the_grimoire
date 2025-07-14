@@ -19,7 +19,7 @@ In DAC, permissions are typically set by the resource owner and can be modified 
 time. Users can share their access rights with others, creating a flexible yet potentially 
 less secure environment. For example, a file owner might grant read or write 
 permissions to specific users or groups, while retaining full control over the file.
-3. Why/when would I use it?
+
 DAC is useful in environments where collaboration is essential, as it allows resource 
 owners to manage access easily. However, it may introduce security risks, as users can 
 unintentionally grant access to unauthorized individuals. Organizations often use DAC 
