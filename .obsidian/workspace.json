@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computers/Programing/Coarl notes/Chapter three labs.md",
+                "file": "Computers/Programing/Coarl notes/8.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter three labs"
+              "title": "8.2"
             }
           }
         ],
@@ -187,6 +187,7 @@
   },
   "active": "318213083f99e28c",
   "lastOpenFiles": [
+    "Computers/Programing/Coarl notes/Chapter three labs.md",
     "Computers/Programing/Coarl notes/Coral notes.md",
     "Computers/Programing/Coarl notes/Modulo operator.md",
     "Computers/SOHO Network Sec/troubleshooting workstation sec issues/Ransomware and cryptominers.md",
@@ -212,7 +213,6 @@
     "Computers/Configure Workstation Security/Password best practices.md",
     "Computers/Configure Workstation Security/Execution control.md",
     "Computers/Configure Workstation Security/End user best practices.md",
-    "Computers/Configure Workstation Security/Encrypting file system.md",
     "Computers/pictures/typical-windows-directory-structure.png",
     "Computers/Pasted image 20250111071410.png",
     "Computers/Programing/Coarl notes/Math Notes/Pasted image 20250426173401.png",
