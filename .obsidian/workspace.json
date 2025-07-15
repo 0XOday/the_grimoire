@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computers/Programing/Coarl notes/8.2.md",
+                "file": "Computers/Lab-docs/Projects/Openstack/openstack/kolla install guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8.2"
+              "title": "kolla install guide"
             }
           }
         ],
@@ -187,6 +187,12 @@
   },
   "active": "318213083f99e28c",
   "lastOpenFiles": [
+    "Computers/Lab-docs/Projects/Openstack/openstack/Open-Stack Networking.canvas",
+    "Computers/Lab-docs/Projects/Openstack/openstack/Openstack TSing.md",
+    "Computers/Lab-docs/Projects/Openstack/openstack/Troubleshooting guide.md",
+    "Computers/Lab-docs/Projects/Openstack/openstack/Watcher module for live migration.md",
+    "Computers/Lab-docs/Projects/Openstack/Good OpenStack configs.md",
+    "Computers/Programing/Coarl notes/8.2.md",
     "Computers/Programing/Coarl notes/Chapter three labs.md",
     "Computers/Programing/Coarl notes/Coral notes.md",
     "Computers/Programing/Coarl notes/Modulo operator.md",
@@ -207,12 +213,6 @@
     "Computers/Fundamentals of information Security/Standards and guide lines/ISO.md",
     "Computers/Fundamentals of information Security/MAC/Access control models.md",
     "Computers/Fundamentals of information Security/MAC/Multileve Access Control Models - Brewer-Nash Model ( Chinese Wall Model.md",
-    "Computers/Configure Workstation Security/Windows Defender Firewall.md",
-    "Computers/Configure Workstation Security/Windows Defender.md",
-    "Computers/Configure Workstation Security/Windows Bitlocker and Bitlocker to go.md",
-    "Computers/Configure Workstation Security/Password best practices.md",
-    "Computers/Configure Workstation Security/Execution control.md",
-    "Computers/Configure Workstation Security/End user best practices.md",
     "Computers/pictures/typical-windows-directory-structure.png",
     "Computers/Pasted image 20250111071410.png",
     "Computers/Programing/Coarl notes/Math Notes/Pasted image 20250426173401.png",
@@ -220,7 +220,6 @@
     "Computers/Programing/Coarl notes/Math Notes/Pasted image 20250426171128.png",
     "Computers/Programing/Coarl notes/Math Notes/Pasted image 20250426171053.png",
     "Computers/Programing/Coarl notes/Math Notes/Pasted image 20250421010759.png",
-    "Computers/Lab-docs/Projects/Openstack/openstack/Open-Stack Networking.canvas",
     "Computers/Lab-docs/Projects/Networking/Networking/Untitled.canvas"
   ]
 }
