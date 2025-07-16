@@ -53,7 +53,7 @@ neutron_external_interface: "enp1s0f1np.1011"
 Fat oneliner
 
 ```
- kolla-ansible destroy -i multinode --yes-i-really-really-mean-it; kolla-ansible bootstrap-server -i multinode; kolla-ansible prechecks -i multinode; kolla-ansible deploy -i multinode; kolla-ansible post-deploy -i multinode; source /etc/kolla/admin-openrc.sh; openstack network create --share --external --provider-physical-network physnet1 --provider-network-type flat provider; openstack volume type create Nimble-Cinder; openstack volume type set --property volume_backend_name=Nimble-Cinder Nimble-Cinder; cat /etc/kolla/admin-openrc.sh
+ kolla-ansible destroy -i multinode --yes-i-really-really-mean-it; kolla-ansible bootstrap-server -i multinode; kolla-ansible prechecks -i multinode; kolla-ansible deploy -i multinode; kolla-ansible post-deploy -i multinode; source /etc/kolla/admin-openrc.sh; openstack network create --share --external --provider-physical-network physnet1 --provider-network-type flat provider; openstack volume type create Nimble-Cinder; openstack volume type set --property volume_backend_name=Nimble-Cinder Nimble-Cinder; cat /etc/kolla/admin-openrc.sh; network create --dns-domain paladin.labs. 
 
 
 ```
