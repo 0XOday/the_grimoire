@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computers/windows/Configure Windows Security Settings/Logical Security controls.md",
+                "file": "Computers/Programing/Coarl notes/8.1 Software design processes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Logical Security controls"
+              "title": "8.1 Software design processes"
             }
           }
         ],
@@ -187,6 +187,9 @@
   },
   "active": "318213083f99e28c",
   "lastOpenFiles": [
+    "Computers/Programing/Coarl notes/7.1 algorithms.md",
+    "Computers/Programing/Coarl notes/6.1 User-defined function basics.md",
+    "Computers/windows/Configure Windows Security Settings/Logical Security controls.md",
     "Computers/Storage/exFAT.md",
     "Computers/Storage/List of File Systems.md",
     "Computers/Storage/FAT32.md",
@@ -211,9 +214,6 @@
     "Computers/Fundamentals of information Security/Chapter 8 human element security.md",
     "Computers/Fundamentals of information Security/Regulatory industry Compliance/California SB 1386.md",
     "Computers/Fundamentals of information Security/Chapter 9 Physical Security.md",
-    "Computers/Fundamentals of information Security/Chapter 7 Operations security.md",
-    "Computers/Fundamentals of information Security/Chapter 6 Compliance, law, and regulations.md",
-    "Computers/Fundamentals of information Security/Basics of Cryptography notes.md",
     "Computers/pictures/typical-windows-directory-structure.png",
     "Computers/Pasted image 20250111071410.png",
     "Computers/Programing/Coarl notes/Math Notes/Pasted image 20250426173401.png",
