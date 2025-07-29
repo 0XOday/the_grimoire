@@ -9,8 +9,8 @@ install mt-st package
 List things off of tape 
 tar -tzf /dev/st0
 
-
-
+Dump things to tape
+tar -czf /dev/st0 _/source/directory
 
 
 
