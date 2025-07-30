@@ -6,9 +6,11 @@ Intro :
 
 Is this good to buy *insert random hw*?  buys something way over spec for workloads.
 
-I really don't like this question as it is extremely vague and can lead to a lot of bad choices. While its ok to ask for help and opinions is shows the lack of self sufficiency and effort on researching. Its better to have the idea of what you want to do with it or what issue you are trying to solve. My argument is not buying something neat that you want to learn, like a VAX system or *insert random system here* My argument is buying HW that is way to much for your needs. So how do I figure out what I need? *it depends* What do you plan on doing? Do you want a Custom NAS? A media server?  Custom firewall? Or something general? 
+I really don't like this question as it is extremely vague and can lead to a lot of bad choices. While its ok to ask for help and opinions is shows the lack of self sufficiency and effort on researching. Its better to have the idea of what you want to do with it or what issue you are trying to solve. My argument is not buying something neat that you want to learn, like a VAX system or *insert random system here* My argument is buying HW that is way to much for your needs. So how do I figure out what I need? *it depends* What do you plan on doing? Do you want a Custom NAS? A media streaming server?  Custom firewall? Or something general? 
 
-You could go the pretty cheap and easy route grabbing a small mini PC and throwing it under your desk *insert scrolling from ebay* or just using what you have laying around when you first start. When you see individuals with fully populated racks...yes racks you might want to full send it yourself and start grabbing racks for yourself but you do not need that right now    
+You could go the pretty cheap and easy route by grabbing a small mini PC from ebay and throwing it under your desk *insert scrolling from ebay* or just using what you have laying around when you first start. Half of labbing is making due with what you have and that's ok. The most impressive thing about a lab is *what you are doing with your lab and what you are learning*
+
+When you see individuals with fully populated racks...yes racks you might want to full send it yourself and start grabbing racks for yourself but you do not need that right now    
 
 When building a system you have to take in account age of the parts you are looking at. 8th gen intel and up are pretty good bets. 
 
