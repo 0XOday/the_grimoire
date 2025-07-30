@@ -12,5 +12,8 @@ Not clearly explaining the issue at hand
 
 Infinaband being used as normal nics 
 
+The use of AI for small problems
+Insert that meme
+
 
 HomeLab dunks 
