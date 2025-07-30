@@ -5,7 +5,7 @@ Intro :
 
 
 Is this good to buy insert random hw with no purpose 
-My argument is not buying something neat that you want to learn. My argument is buying HW that is way to much for your needs. So how do I figure out what I need? *it depends* What do you plan on doing? Do you want a Custom NAS? A backup server?  
+My argument is not buying something neat that you want to learn, like a VAX system or *insert random system here* My argument is buying HW that is way to much for your needs. So how do I figure out what I need? *it depends* What do you plan on doing? Do you want a Custom NAS? A media server?  Custom firewall? Or something general?  
 
 
 How do I do X? No I will not read the docs! 
@@ -41,6 +41,18 @@ Summer hosting. You are not skilled enough to summer host and if you are you wil
 Not being able to read logs.
 
 SSH servers enabled with password authentication.
+
+Datacenter gear is loud. Get over it.
+
+Do you realize how old that server is?
+
+(Part 2) ROFLstomping an E5 V3 box with a modern laptop
+
+You don't actually want a Pi
+
+Are you here to learn or LARP?
+
+Logs are love, logs are life
 
 
 
