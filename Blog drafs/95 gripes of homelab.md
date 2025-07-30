@@ -5,7 +5,8 @@ Intro :
 
 
 Is this good to buy insert random hw with no purpose 
-My argument is not buying something neat that you want to learn, like a VAX system or *insert random system here* My argument is buying HW that is way to much for your needs. So how do I figure out what I need? *it depends* What do you plan on doing? Do you want a Custom NAS? A media server?  Custom firewall? Or something general?  
+My argument is not buying something neat that you want to learn, like a VAX system or *insert random system here* My argument is buying HW that is way to much for your needs. So how do I figure out what I need? *it depends* What do you plan on doing? Do you want a Custom NAS? A media server?  Custom firewall? Or something general? 
+When building a system you have to take in account age of the parts you are looking at. 8th gen intel and up are pretty good bets  What bottle neck you want to have and that will always be networking 
 
 
 How do I do X? No I will not read the docs! 
@@ -54,8 +55,9 @@ Are you here to learn or LARP?
 
 Logs are love, logs are life
 
+low power draw does not equal efficient.
 
-
+How can I get a job in IT? DO NOT FOR THE LOVE OF GOD SIGN UP FOR A COURSE FROM SOME RANDOM GUY ON YOUTUBE. 
 
 
 
