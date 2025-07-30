@@ -29,6 +29,11 @@ How do I fan mod *insert thing that should not be fan modded*
 
 The hyper fixation of ECC ram. Your workloads are not that important
 
+Summer hosting  
+
+Not being able to read logs
+
+
 
 
 
