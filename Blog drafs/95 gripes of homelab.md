@@ -5,6 +5,8 @@ Intro :
 
 
 Is this good to buy insert random hw with no purpose 
+My argument is not buying something neat that you want to learn. My argument is buying HW that is way to much for your needs. So how do I figure out what I need? *it depends* What do you plan on doing? Do you want a Custom NAS? A backup server?  
+
 
 How do I do X? No I will not read the docs! 
 
