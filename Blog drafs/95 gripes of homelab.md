@@ -14,7 +14,7 @@ You could go the pretty cheap and easy route by grabbing a small mini PC from eb
 
 When building a system you have to take in account of a few things. Some common pitfalls that I see is that people are ECC memory. The workloads that you will be running will not be that sensitive and right now you should treat that as snake oli!!! *why is this snake oli*. I would argue that the thing you want to splurge on is enterprise SSD's since they can maintain there speed as advertised compared to there consumer counterparts. *shots of Kioxia XG7s, and Intel DC series drives*. 
 
-Half of labbing is making due with what you have and that's ok. The most impressive thing about a lab is *what you are doing with your lab and what you are learning* not just for highfives and showing off.
+Half of labbing is making due with what you have and that's ok. The most impressive thing about a lab is *what you are doing with your lab and what you are learning* not just for high fives and showing off.
 
 
 
