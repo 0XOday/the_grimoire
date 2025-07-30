@@ -6,8 +6,7 @@ Intro :
 
 Is this good to buy insert random hw with no purpose 
 My argument is not buying something neat that you want to learn, like a VAX system or *insert random system here* My argument is buying HW that is way to much for your needs. So how do I figure out what I need? *it depends* What do you plan on doing? Do you want a Custom NAS? A media server?  Custom firewall? Or something general? 
-When building a system you have to take in account age of the parts you are looking at. 8th gen intel and up are pretty good bets. You do not need ECC memory the workloads that you will be running will not be that sensitive and right now you should treat that as snake oli *why is this snake oli*. 
-I would argue that the thing you want to splurge on is enterprise SSD's since they can maintain there speed as advertised compared to there consumer counterparts. This will most likely be the first bottle neck you will feel when you are IO bound and its best to avoid it now when you build a system. 
+When building a system you have to take in account age of the parts you are looking at. 8th gen intel and up are pretty good bets. You do not need ECC memory the workloads that you will be running will not be that sensitive and right now you should treat that as snake oli *why is this snake oli*. I would argue that the thing you want to splurge on is enterprise SSD's since they can maintain there speed as advertised compared to there consumer counterparts. This will most likely be the first bottle neck you will feel when you are IO bound and its best to avoid it now when you build a system.  
 
 
 How do I do X? No I will not read the docs! 
@@ -61,6 +60,8 @@ low power draw does not equal efficient.
 How can I get a job in IT? DO NOT FOR THE LOVE OF GOD SIGN UP FOR A COURSE FROM SOME RANDOM GUY ON YOUTUBE. 
 
 Treating USB drives as a sane and safe option for long term storage
+
+Live-stream having a somewhat outdated WinSrv box running until it gets compromised
 
 
 HomeLab dunks 
