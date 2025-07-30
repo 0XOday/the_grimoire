@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computers/Lab-docs/Projects/Storage/Tape backups.md",
+                "file": "Blog drafs/95 gripes of homelab.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tape backups"
+              "title": "95 gripes of homelab"
             }
           }
         ],
@@ -187,8 +187,9 @@
   },
   "active": "318213083f99e28c",
   "lastOpenFiles": [
-    "Computers/Lab-docs/Projects/Storage/Nimble/ISCSI.md",
     "Computers/Lab-docs/Projects/Storage/Tape backups.md",
+    "Blog drafs/95 gripes of homelab.md",
+    "Computers/Lab-docs/Projects/Storage/Nimble/ISCSI.md",
     "Computers/Using Support and Scripting tools/Backup and Recovery/Backup media req.md",
     "Computers/Programing/Coarl notes/8.2.md",
     "Computers/Programing/Coarl notes/8.1 Software design processes.md",
@@ -213,7 +214,6 @@
     "Computers/SOHO Network Sec/troubleshooting workstation sec issues/Malware removal tools and methods.md",
     "Computers/SOHO Network Sec/troubleshooting workstation sec issues/Malware Payloads.md",
     "Computers/SOHO Network Sec/troubleshooting workstation sec issues/Best practice for malware removal.md",
-    "Computers/SOHO Network Sec/Information security.md",
     "Computers/pictures/typical-windows-directory-structure.png",
     "Computers/Pasted image 20250111071410.png",
     "Computers/Programing/Coarl notes/Math Notes/Pasted image 20250426173401.png",
