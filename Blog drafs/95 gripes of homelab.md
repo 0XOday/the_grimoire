@@ -19,7 +19,15 @@ Infinaband being used as normal nics
 The use of AI for small problems
 Insert *that* meme
 
-Yo I got all this HW
+Yo I got all this HW! Wow what do you do with it?  Insert generic thing here
+
+Not understanding basic networking
+
+How do I fan mod *insert thing that should not be fan modded*
+
+The hyper fixation of ECC ram. Your workloads are not that important
+
+
 
 
 HomeLab dunks 
