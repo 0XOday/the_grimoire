@@ -77,5 +77,6 @@ Treating USB drives as a sane and safe option for long term storage
 
 Live-stream having a somewhat outdated WinSrv box running until it gets compromised
 
+mini-lab - the little 10in racks, ammo can build  
 
 HomeLab dunks 
