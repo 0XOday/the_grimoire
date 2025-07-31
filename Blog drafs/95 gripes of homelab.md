@@ -33,7 +33,9 @@ Talk about the pros and cons of each one
 		* Easy to set up 
 		* Lots of community *"soultions"*  
 
-
+Sources :  
+[Windows Hyper-v](https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/host-hardware-requirements?pivots=windows-server )
+[ProxMox]()
 
 
 How do I do X? No I will not read the docs! 
