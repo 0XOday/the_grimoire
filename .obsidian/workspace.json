@@ -89,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,7 +185,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "318213083f99e28c",
+  "active": "1eb596a29cd0f530",
   "lastOpenFiles": [
     "Blog drafs/95 gripes of homelab.md",
     "Blog drafs/Untitled.md",
