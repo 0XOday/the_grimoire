@@ -21,6 +21,15 @@ Half of labbing is making due with what you have and that's ok. The most impress
 
 
 
+Virtualization , Proxmox , windows vm stack, virtbox , libvirt openstack 
+
+Talk about the pros and cons of each one 
+*  Proxmox 
+	* Cons
+		* Not handling storage safely 
+		* Making assumptions  
+
+
 
 
 How do I do X? No I will not read the docs! 
@@ -78,5 +87,7 @@ Treating USB drives as a sane and safe option for long term storage
 Live-stream having a somewhat outdated WinSrv box running until it gets compromised
 
 mini-lab - the little 10in racks, ammo can build  
+
+
 
 HomeLab dunks 
