@@ -33,9 +33,9 @@ Talk about the pros and cons of each one
 		* Easy to set up 
 		* Lots of community *"soultions"*  
 
-Sources :  
+Sources / Docs:  
 [Windows Hyper-v](https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/host-hardware-requirements?pivots=windows-server )
-[ProxMox]()
+[ProxMox](https://www.proxmox.com/en/)
 
 
 How do I do X? No I will not read the docs! 
@@ -94,6 +94,6 @@ Live-stream having a somewhat outdated WinSrv box running until it gets compromi
 
 mini-lab - the little 10in racks, ammo can build  
 
-
+Hosting a mail server 
 
 HomeLab dunks 
