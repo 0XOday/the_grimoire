@@ -21,13 +21,17 @@ Half of labbing is making due with what you have and that's ok. The most impress
 
 
 
-Virtualization , Proxmox , windows vm stack, virtbox , libvirt openstack 
+Virtualization , Proxmox , Windows Hyper-V technology, Oracle virtbox , libvirt openstack 
 
 Talk about the pros and cons of each one 
 *  Proxmox 
 	* Cons
 		* Not handling storage safely 
-		* Making assumptions  
+		* Making assumptions 
+		* Awful documentation  
+	*  Pros
+		* Easy to set up 
+		* Lots of community *"soultions"*  
 
 
 
