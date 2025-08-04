@@ -1,11 +1,11 @@
 {
 	"nodes":[
-		{"id":"bb7a7b313c2e18f2","x":-380,"y":-367,"width":250,"height":60,"type":"text","text":""},
 		{"id":"7dce95d73fe701aa","x":-125,"y":-30,"width":250,"height":150,"type":"text","text":"MineCraft - server \nElastic agent\n"},
 		{"id":"b244b995119532d4","x":-125,"y":140,"width":250,"height":140,"type":"text","text":"Elk stack"},
 		{"id":"240415d1bf10a2cb","x":-125,"y":-200,"width":250,"height":160,"type":"text","text":"Web page\nElastic again\nTailScale"},
 		{"id":"6e002d7845d1ea0b","x":-119,"y":-360,"width":239,"height":149,"type":"text","text":"Plex server \nElastic agent"},
-		{"id":"df93ad08bf3a38d5","x":-119,"y":-520,"width":239,"height":140,"type":"text","text":"CopyParty \nElastic agent"}
+		{"id":"df93ad08bf3a38d5","x":-119,"y":-520,"width":239,"height":140,"type":"text","text":"CopyParty  \n\tLinux ISO\n\tMC Backup\n\nElastic agent"},
+		{"id":"bb7a7b313c2e18f2","x":-400,"y":-520,"width":250,"height":367,"type":"text","text":"One tailscale agent can route to other boxes on the network \n\n"}
 	],
 	"edges":[]
 }
