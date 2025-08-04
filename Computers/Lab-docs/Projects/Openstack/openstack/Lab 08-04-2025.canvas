@@ -1,7 +1,10 @@
 {
 	"nodes":[
 		{"id":"7dce95d73fe701aa","x":-125,"y":-30,"width":250,"height":150,"type":"text","text":"MineCraft - server \nElastic agent\n"},
-		{"id":"b244b995119532d4","x":-125,"y":140,"width":250,"height":60,"type":"text","text":""}
+		{"id":"b244b995119532d4","x":-125,"y":140,"width":250,"height":140,"type":"text","text":"Elk stack"},
+		{"id":"240415d1bf10a2cb","x":-125,"y":-200,"width":250,"height":160,"type":"text","text":"Web page"},
+		{"id":"6e002d7845d1ea0b","x":-119,"y":-360,"width":239,"height":149,"type":"text","text":"Plex server \n"},
+		{"id":"df93ad08bf3a38d5","x":-119,"y":-520,"width":239,"height":140,"type":"text","text":""}
 	],
 	"edges":[]
 }
