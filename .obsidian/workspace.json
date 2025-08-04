@@ -11,14 +11,17 @@
             "id": "f8010be74b38ed6a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Blog drafs/95 gripes of homelab.md",
-                "mode": "source",
-                "source": false
+                "file": "Computers/Lab-docs/Projects/Openstack/openstack/Lab 08-04-2025.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "95 gripes of homelab"
+              "icon": "lucide-layout-dashboard",
+              "title": "Lab 08-04-2025"
             }
           }
         ]
@@ -172,9 +175,12 @@
   },
   "active": "f8010be74b38ed6a",
   "lastOpenFiles": [
+    "Computers/Lab-docs/Projects/Openstack/openstack/Lab 08-04-2025.md",
+    "Computers/Lab-docs/Projects/Openstack/openstack/Lab 08-04-2025.canvas",
+    "Computers/Lab-docs/Projects/Openstack/openstack/Open-Stack Networking.canvas",
+    "Blog drafs/95 gripes of homelab.md",
     "Computers/windows/Windows Command Prompt and Powershell.md",
     "Computers/Lab-docs/Projects/Storage/Tape backups.md",
-    "Blog drafs/95 gripes of homelab.md",
     "Blog drafs/Untitled.md",
     "Blog drafs/Think fast!.md",
     "Computers/Lab-docs/Projects/Storage/Nimble/ISCSI.md",
@@ -189,7 +195,6 @@
     "Computers/Storage/FAT32.md",
     "Computers/Mobile OS Sec/Screen locks.md",
     "Computers/Lab-docs/Projects/Openstack/openstack/kolla install guide.md",
-    "Computers/Lab-docs/Projects/Openstack/openstack/Open-Stack Networking.canvas",
     "Computers/Lab-docs/Projects/Openstack/openstack/Openstack TSing.md",
     "Computers/Lab-docs/Projects/Openstack/openstack/Troubleshooting guide.md",
     "Computers/Lab-docs/Projects/Openstack/openstack/Watcher module for live migration.md",
@@ -197,8 +202,6 @@
     "Computers/Programing/Coarl notes/Chapter three labs.md",
     "Computers/Programing/Coarl notes/Coral notes.md",
     "Computers/Programing/Coarl notes/Modulo operator.md",
-    "Computers/SOHO Network Sec/troubleshooting workstation sec issues/Ransomware and cryptominers.md",
-    "Computers/SOHO Network Sec/troubleshooting workstation sec issues/Malware vectors.md",
     "Computers/pictures/typical-windows-directory-structure.png",
     "Computers/Pasted image 20250111071410.png",
     "Computers/Programing/Coarl notes/Math Notes/Pasted image 20250426173401.png",

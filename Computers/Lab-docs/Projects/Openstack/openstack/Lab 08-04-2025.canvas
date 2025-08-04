@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"7dce95d73fe701aa","x":-125,"y":-30,"width":250,"height":150,"type":"text","text":"MineCraft - server \nElastic agent\n"},
+		{"id":"b244b995119532d4","x":-125,"y":140,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[]
+}
