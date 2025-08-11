@@ -1,0 +1,1 @@
+A person that acts with integrity is in accordance with a per
