@@ -11,17 +11,14 @@
             "id": "f8010be74b38ed6a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Computers/Lab-docs/Projects/Openstack/openstack/Lab 08-04-2025.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": -70.74749649613597,
-                  "zoom": 0
-                }
+                "file": "Computers/Ethics in Technology/Intro.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Lab 08-04-2025"
+              "icon": "lucide-file",
+              "title": "Intro"
             }
           }
         ]
@@ -175,8 +172,10 @@
   },
   "active": "f8010be74b38ed6a",
   "lastOpenFiles": [
-    "Computers/Lab-docs/Projects/Openstack/openstack/Lab 08-04-2025.md",
     "Computers/Lab-docs/Projects/Openstack/openstack/Lab 08-04-2025.canvas",
+    "Computers/Ethics in Technology/Intro.md",
+    "Computers/Ethics in Technology",
+    "Computers/Lab-docs/Projects/Openstack/openstack/Lab 08-04-2025.md",
     "Computers/Lab-docs/Projects/Openstack/openstack/Open-Stack Networking.canvas",
     "Blog drafs/95 gripes of homelab.md",
     "Computers/windows/Windows Command Prompt and Powershell.md",
@@ -201,7 +200,6 @@
     "Computers/Lab-docs/Projects/Openstack/Good OpenStack configs.md",
     "Computers/Programing/Coarl notes/Chapter three labs.md",
     "Computers/Programing/Coarl notes/Coral notes.md",
-    "Computers/Programing/Coarl notes/Modulo operator.md",
     "Computers/pictures/typical-windows-directory-structure.png",
     "Computers/Pasted image 20250111071410.png",
     "Computers/Programing/Coarl notes/Math Notes/Pasted image 20250426173401.png",
