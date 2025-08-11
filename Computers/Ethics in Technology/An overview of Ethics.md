@@ -22,4 +22,9 @@ Questions that we should be able to answer after reading section 1.1-1.7 in *Com
 What is Ethics : *Ethics in information Technology*
 * Ethics is a code of behavior that is defined by the group to which an individual belongs.
 	* Generally accepted norms that change over time to meet the evolving needs of the society or groups of people
-	* Provides structure to enable people to live together  
+	* Provides structure to enable people to live together giving mutual benefits , security, access to resources and the pursuit of life goals.
+	
+	* Morals 
+		* Personal principles that a individual bases there decisions about what is right or wrong.
+		* core beliefs
+	* virtue : Is 
