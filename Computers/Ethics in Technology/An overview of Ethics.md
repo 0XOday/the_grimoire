@@ -15,4 +15,6 @@ Questions that we should be able to answer after reading section 1.1-1.7 in *Com
 	* Ethical statements typically come in two varieties: normative and descriptive.
 		* Normative statements : Provides an assessment of how things should be rather than how they are.
 		* Rooted in value judgments about what is good and what is bad. what is permissible and what is forbidden or they are assessments of the relative value of different things. 
+		* A person who reasons in this way is not being objective
+		* 
 		* descriptive statements : 
