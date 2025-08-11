@@ -1,1 +1,2 @@
-A person that acts with integrity is in accordance with a per
+* A person that acts with integrity is in accordance with a personal code of principles.
+	 * One example is to extend to all people the same respect and consideration that you expect to receive from them.  
