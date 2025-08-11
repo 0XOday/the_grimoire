@@ -27,4 +27,8 @@ What is Ethics : *Ethics in information Technology*
 	* Morals 
 		* Personal principles that a individual bases there decisions about what is right or wrong.
 		* core beliefs
-	* virtue : Is 
+	* virtue : what is an acceptable habit 
+		* Fairness, generosity, loyalty 
+	* vice: A habit of unacceptable behavior
+		* vanity, greed. envy and anger 
+	* People's virtues and vices help define their personal value system 
