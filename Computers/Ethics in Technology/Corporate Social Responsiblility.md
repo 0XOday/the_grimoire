@@ -1,1 +1,1 @@
-* 
+* A concept that an organization sh 
