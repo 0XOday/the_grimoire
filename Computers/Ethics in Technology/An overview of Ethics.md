@@ -32,3 +32,4 @@ What is Ethics : *Ethics in information Technology*
 	* vice: A habit of unacceptable behavior
 		* vanity, greed. envy and anger 
 	* People's virtues and vices help define their personal value system and behavior 
+	* An example of a debated right and wrong is software piracy.
