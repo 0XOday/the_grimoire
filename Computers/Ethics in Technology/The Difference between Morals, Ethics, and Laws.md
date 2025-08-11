@@ -3,4 +3,4 @@
 	* Legal acts are acts the conform to the law
 	* Moral acts conform to what an individual believes to be the right things to do. 
 * Practitioners in many professions subscribe to a code of ethics that states the principles and core values that are essential to their work thus governing their behavior. 
-	* Gives a reference point 
+	* Gives a reference point  for helping an individual determine what is legal and what is ethical. 
