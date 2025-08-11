@@ -27,9 +27,11 @@ What is Ethics : *Ethics in information Technology*
 	* Morals 
 		* Personal principles that a individual bases there decisions about what is right or wrong.
 		* core beliefs
+		* Individual views of what behavior is moral can be impacted by bias such as age, cultural group, ethnic background, religion, life experiences, education and gender. 
 	* virtue : what is an acceptable habit 
 		* Fairness, generosity, loyalty 
 	* vice: A habit of unacceptable behavior
 		* vanity, greed. envy and anger 
 	* People's virtues and vices help define their personal value system and behavior 
 	* An example of a debated right and wrong is software piracy.
+		
