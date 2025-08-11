@@ -18,3 +18,7 @@ Questions that we should be able to answer after reading section 1.1-1.7 in *Com
 		* A person who reasons in this way is not being objective
 		* 
 		* descriptive statements : 
+
+What is Ethics : *Ethics in information Technology*
+* Ethics is a code of behavior that is defined by the group to which an individual belongs.
+* Generally accepted norms that change over time to meet the evolving needs of the society or group of people 
