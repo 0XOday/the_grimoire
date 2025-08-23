@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computers/Lab-docs/Projects/Openstack/openstack/kolla install guide.md",
+                "file": "2025-08-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "kolla install guide"
+              "title": "2025-08-22"
             }
           }
         ]
@@ -172,6 +172,8 @@
   },
   "active": "f8010be74b38ed6a",
   "lastOpenFiles": [
+    "Computers/Lab-docs/Projects/Openstack/openstack/kolla install guide.md",
+    "2025-08-22.md",
     "Computers/Lab-docs/Projects/Openstack/openstack/Good single node deploy kolla.md",
     "Computers/Lab-docs/Projects/Openstack/openstack/Adding and removing hosts.md",
     "Computers/Ethics in Technology/Corporate Social Responsiblility.md",
@@ -199,8 +201,6 @@
     "Computers/Storage/List of File Systems.md",
     "Computers/Storage/FAT32.md",
     "Computers/Mobile OS Sec/Screen locks.md",
-    "Computers/Lab-docs/Projects/Openstack/openstack/kolla install guide.md",
-    "Computers/Lab-docs/Projects/Openstack/openstack/Openstack TSing.md",
     "Computers/pictures/typical-windows-directory-structure.png",
     "Computers/Pasted image 20250111071410.png",
     "Computers/Programing/Coarl notes/Math Notes/Pasted image 20250426173401.png",
